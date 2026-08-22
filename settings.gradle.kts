@@ -24,4 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "MyGameTop"
 include(":app")
- 
+include(":domain")
+include(":data")

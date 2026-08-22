@@ -1,22 +1,15 @@
 package com.bobon.mygametop.data
 
-
-import androidx.room3.ColumnTypeConverter
+import androidx.room.TypeConverter
 import org.json.JSONArray
 
 object StringListConverter {
+    @TypeConverter
+    fun fromStringList(value: List<String>): String = JSONArray(value).toString()
 
-    @ColumnTypeConverter
-    fun fromStringList(value: List<String>): String {
-        return JSONArray(value).toString()
-    }
-
-    @ColumnTypeConverter
+    @TypeConverter
     fun toStringList(value: String): List<String> {
         val jsonArray = JSONArray(value)
-
-        return List(jsonArray.length()) { index ->
-            jsonArray.getString(index)
-        }
+        return List(jsonArray.length()) { index -> jsonArray.getString(index) }
     }
 }

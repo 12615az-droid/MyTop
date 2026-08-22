@@ -1,45 +1,16 @@
 package com.bobon.mygametop.data
 
-
-import androidx.room3.Dao
-import androidx.room3.Delete
-import androidx.room3.Insert
-import androidx.room3.OnConflictStrategy
-import androidx.room3.Query
-import androidx.room3.Update
+import androidx.room.Dao
+import androidx.room.Insert
+import androidx.room.OnConflictStrategy
+import androidx.room.Query
 import kotlinx.coroutines.flow.Flow
 
 @Dao
 interface GameDao {
-
-    @Query(
-        """
-        SELECT * 
-        FROM games
-        ORDER BY title COLLATE NOCASE ASC
-        """
-    )
+    @Query("SELECT * FROM games ORDER BY id DESC")
     fun observeGames(): Flow<List<GameEntity>>
-
-    @Query(
-        """
-        SELECT *
-        FROM games
-        WHERE id = :id
-        LIMIT 1
-        """
-    )
-    suspend fun getGameById(id: Long): GameEntity?
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertGame(game: GameEntity): Long
-
-    @Update
-    suspend fun updateGame(game: GameEntity)
-
-    @Delete
-    suspend fun deleteGame(game: GameEntity)
-
-    @Query("DELETE FROM games WHERE id = :id")
-    suspend fun deleteGameById(id: Long)
 }
