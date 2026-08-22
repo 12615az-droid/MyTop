@@ -1,20 +1,11 @@
 package com.bobon.mygametop.data
 
-import androidx.room3.ColumnTypeConverters
-import androidx.room3.Database
-import androidx.room3.RoomDatabase
+import androidx.room.Database
+import androidx.room.RoomDatabase
+import androidx.room.TypeConverters
 
-@Database(
-    entities = [
-        GameEntity::class
-    ],
-    version = 1,
-    exportSchema = true
-)
-@ColumnTypeConverters(
-    StringListConverter::class
-)
+@Database(entities = [GameEntity::class], version = 1, exportSchema = false)
+@TypeConverters(StringListConverter::class)
 abstract class MyTopDatabase : RoomDatabase() {
-
     abstract fun gameDao(): GameDao
 }
