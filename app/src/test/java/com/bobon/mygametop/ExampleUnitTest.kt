@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.bobon.mygametop
 
 import org.junit.Test
 

@@ -1,8 +1,7 @@
-package com.example.myapplication.ui
+package com.bobon.mygametop.ui
 
 
 
-import android.R.id.tabs
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.scaleIn
 import androidx.compose.animation.scaleOut
@@ -28,7 +27,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.myapplication.ui.theme.MyApplicationTheme
+import com.bobon.mygametop.ui.theme.MyApplicationTheme
 import kotlinx.coroutines.launch
 
 // ============================================
