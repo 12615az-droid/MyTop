@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cover_image" formatted="false">Coperta jocului</string>
+    <string name="no_cover" formatted="false">Fără copertă</string>
+    <string name="cover_unavailable" formatted="false">Copertă indisponibilă</string>
+    <string name="edit_game" formatted="false">Editează jocul</string>
+    <string name="new_game" formatted="false">Joc nou</string>
+    <string name="back" formatted="false">Înapoi</string>
+    <string name="saving" formatted="false">Se salvează…</string>
+    <string name="save" formatted="false">Salvează</string>
+    <string name="game_unavailable" formatted="false">Joc indisponibil. Revino la colecție.</string>
+    <string name="basics" formatted="false">Date de bază</string>
+    <string name="title_required" formatted="false">Titlu *</string>
+    <string name="decrease" formatted="false">Micșorează</string>
+    <string name="increase" formatted="false">Mărește</string>
+    <string name="status_required" formatted="false">Stare *</string>
+    <string name="additional" formatted="false">Detalii suplimentare</string>
+    <string name="series" formatted="false">Serie</string>
+    <string name="universe" formatted="false">Univers</string>
+    <string name="genres" formatted="false">Genuri</string>
+    <string name="developers" formatted="false">Dezvoltatori</string>
+    <string name="release_year" formatted="false">Anul lansării</string>
+    <string name="platforms" formatted="false">Platforme</string>
+    <string name="tags" formatted="false">Etichete</string>
+    <string name="opinion" formatted="false">Părerea mea</string>
+    <string name="playtime" formatted="false">Timp de joc</string>
+    <string name="hours" formatted="false">h</string>
+    <string name="cover" formatted="false">Copertă</string>
+    <string name="select" formatted="false">Alege</string>
+    <string name="replace" formatted="false">Înlocuiește</string>
+    <string name="remove" formatted="false">Elimină</string>
+    <string name="completion_dates" formatted="false">Date de finalizare</string>
+    <string name="delete" formatted="false">Șterge</string>
+    <string name="add_date" formatted="false">Adaugă o dată</string>
+    <string name="add" formatted="false">Adaugă</string>
+    <string name="cancel" formatted="false">Anulează</string>
+    <string name="playing" formatted="false">În curs</string>
+    <string name="completed" formatted="false">Finalizat</string>
+    <string name="replaying" formatted="false">Rejoc</string>
+    <string name="dropped" formatted="false">Abandonat</string>
+    <string name="game_not_found" formatted="false">Jocul nu a fost găsit</string>
+    <string name="load_game_error" formatted="false">Jocul nu a putut fi încărcat</string>
+    <string name="title_needed" formatted="false">Introdu un titlu pentru a salva</string>
+    <string name="save_game_error" formatted="false">Jocul nu a putut fi salvat</string>
+    <string name="load_collection_error" formatted="false">Colecția nu a putut fi încărcată</string>
+    <string name="import_error" formatted="false">Importul JSON a eșuat. Verifică formatul și accesul.</string>
+    <string name="export_error" formatted="false">Colecția nu a putut fi exportată</string>
+    <string name="export_retry" formatted="false">Redeschide setările de export</string>
+    <string name="delete_error" formatted="false">Jocul nu a putut fi șters</string>
+    <string name="game_deleted" formatted="false">Joc șters</string>
+    <string name="already_deleted" formatted="false">Joc deja șters</string>
+    <string name="app_name" formatted="false">Topul meu de jocuri</string>
+    <string name="settings" formatted="false">Setări</string>
+    <string name="transfer" formatted="false">Import și export</string>
+    <string name="import_json" formatted="false">Importă JSON</string>
+    <string name="export_collection" formatted="false">Exportă colecția</string>
+    <string name="add_game" formatted="false">Adaugă joc</string>
+    <string name="search_hint" formatted="false">Jocuri, genuri, platforme</string>
+    <string name="clear_search" formatted="false">Șterge căutarea</string>
+    <string name="filters" formatted="false">Filtre</string>
+    <string name="empty_title" formatted="false">Topul tău începe aici</string>
+    <string name="no_results" formatted="false">Niciun joc găsit</string>
+    <string name="empty_help" formatted="false">Adaugă un joc sau importă o colecție JSON.</string>
+    <string name="no_results_help" formatted="false">Modifică căutarea sau resetează filtrele.</string>
+    <string name="reset_search" formatted="false">Resetează căutarea și filtrele</string>
+    <string name="delete_question" formatted="false">Ștergi jocul?</string>
+    <string name="edit" formatted="false">Editează</string>
+    <string name="filter_title" formatted="false">Filtrează jocurile</string>
+    <string name="status" formatted="false">Stare</string>
+    <string name="all" formatted="false">Toate</string>
+    <string name="genre" formatted="false">Gen</string>
+    <string name="all_genres" formatted="false">Toate genurile</string>
+    <string name="reset" formatted="false">Resetează</string>
+    <string name="close" formatted="false">Închide</string>
+    <string name="delete_game" formatted="false">Șterge jocul</string>
+    <string name="sort_best" formatted="false">Cele mai bine evaluate</string>
+    <string name="sort_rating_asc" formatted="false">Cele mai slab evaluate</string>
+    <string name="sort_title" formatted="false">După titlu</string>
+    <string name="sort_newest" formatted="false">Adăugate recent</string>
+    <string name="sort_year" formatted="false">După anul lansării</string>
+    <string name="choose_json" formatted="false">Alege fișierul JSON</string>
+    <string name="import_title" formatted="false">Adaugă jocuri din fișier</string>
+    <string name="import_intro" formatted="false">Folosește acest format JSON. Adaugă jocuri în lista games.</string>
+    <string name="copied" formatted="false">Exemplu copiat</string>
+    <string name="copy_example" formatted="false">Copiază exemplul</string>
+    <string name="required_fields" formatted="false">Câmpuri obligatorii</string>
+    <string name="required_help" formatted="false">title: Titlu\nrating: 0–10\nstatus: Stare\ncompletions: Finalizări (≥0)</string>
+    <string name="statuses" formatted="false">Stări</string>
+    <string name="statuses_help" formatted="false">PLAYING: În curs\nCOMPLETED: Finalizat\nREPLAYING: Rejoc\nDROPPED: Abandonat</string>
+    <string name="optional_fields" formatted="false">Câmpuri opționale</string>
+    <string name="optional_help" formatted="false">Liste: genres, platforms, tags, developers, completionDates.\nText: series, universe, opinion, coverUri.\nNumere: releaseYear, playtimeHours (0.5).</string>
+    <string name="import_how" formatted="false">Cum funcționează importul</string>
+    <string name="import_behavior" formatted="false">Jocurile sunt adăugate. Reimportul creează copii. Fișierele invalide nu modifică nimic.</string>
+    <string name="import_limits" formatted="false">Max. 10 MB și 10.000 de jocuri. Versiunea 1 sau listă simplă. Linkurile locale pot să nu funcționeze pe alt dispozitiv.</string>
+    <string name="export_settings" formatted="false">Setări de export</string>
+    <string name="file_format" formatted="false">Format fișier</string>
+    <string name="json_purpose" formatted="false">Transferă și restaurează colecția</string>
+    <string name="txt_purpose" formatted="false">Clasament lizibil cu note</string>
+    <string name="which_games" formatted="false">Jocuri de exportat</string>
+    <string name="whole_collection" formatted="false">Întreaga colecție</string>
+    <string name="current_selection" formatted="false">Selecția curentă</string>
+    <string name="export_order" formatted="false">Aceeași ordine ca pe ecranul principal.</string>
+    <string name="which_fields" formatted="false">Date de exportat</string>
+    <string name="required_export" formatted="false">Incluse mereu: Titlu, Notă, Stare, Finalizări.</string>
+    <string name="game_details" formatted="false">Detalii joc</string>
+    <string name="metadata_help" formatted="false">Serie, Univers, Genuri, Etichete, Dezvoltatori, Platforme, Anul lansării</string>
+    <string name="history" formatted="false">Istoric de joc</string>
+    <string name="history_help" formatted="false">Date de finalizare · Timp de joc</string>
+    <string name="opinion_help" formatted="false">Notițele și impresiile tale</string>
+    <string name="cover_links" formatted="false">Linkuri către coperți</string>
+    <string name="cover_links_help" formatted="false">Linkuri locale, fără imagini</string>
+    <string name="export_warning" formatted="false">Câmpurile dezactivate sunt omise din JSON. Pentru o copie completă, include toate datele și întreaga colecție.</string>
+    <string name="make_it_yours" formatted="false">Un top pe gustul tău</string>
+    <string name="settings_intro" formatted="false">Culori, fonturi și detalii pentru colecția ta.</string>
+    <string name="appearance" formatted="false">Aspect</string>
+    <string name="appearance_summary" formatted="false">Temă · Culori · Font · Carduri și detalii</string>
+    <string name="other_settings" formatted="false">Alte setări</string>
+    <string name="notifications" formatted="false">Notificări</string>
+    <string name="notifications_soon" formatted="false">În curând · mementouri de joc</string>
+    <string name="sync" formatted="false">Sincronizare</string>
+    <string name="sync_soon" formatted="false">În curând · pe mai multe dispozitive</string>
+    <string name="settings_soon" formatted="false">Aceste secțiuni vor fi disponibile ulterior. Importul și exportul sunt în meniul principal.</string>
+    <string name="iris" formatted="false">Iris</string>
+    <string name="ocean" formatted="false">Ocean</string>
+    <string name="forest" formatted="false">Pădure</string>
+    <string name="rose" formatted="false">Trandafir</string>
+    <string name="amber" formatted="false">Chihlimbar</string>
+    <string name="graphite" formatted="false">Grafit</string>
+    <string name="font_applied" formatted="false">Font importat și aplicat</string>
+    <string name="font_error" formatted="false">Fontul nu a putut fi încărcat. Alege un TTF/OTF valid de cel mult 5 MB.</string>
+    <string name="reset_appearance" formatted="false">Resetează aspectul</string>
+    <string name="your_style" formatted="false">Stilul tău. Topul tău.</string>
+    <string name="auto_save" formatted="false">Modificările se aplică și se salvează imediat.</string>
+    <string name="theme" formatted="false">Temă</string>
+    <string name="colors" formatted="false">Culori</string>
+    <string name="system_colors" formatted="false">Culori de sistem</string>
+    <string name="system_colors_help" formatted="false">Paletă bazată pe fundal</string>
+    <string name="system_colors_unavailable" formatted="false">Necesită Android 12. Se folosește accentul ales.</string>
+    <string name="accent_palette" formatted="false">Paletă de accent</string>
+    <string name="custom_hex" formatted="false">Accent HEX personalizat</string>
+    <string name="hex_help" formatted="false">Introdu 6 cifre hexazecimale, ex. #7C4DFF</string>
+    <string name="tonal_help" formatted="false">Creează o paletă tonală din accent</string>
+    <string name="apply_accent" formatted="false">Aplică accentul</string>
+    <string name="font" formatted="false">Font</string>
+    <string name="custom_font" formatted="false">Font personalizat</string>
+    <string name="loading" formatted="false">Se încarcă…</string>
+    <string name="import_font" formatted="false">Importă font</string>
+    <string name="font_help" formatted="false">TTF/OTF, cel mult 5 MB. Păstrat în aplicație. Alege un font pentru limba ta.</string>
+    <string name="text_scale_help" formatted="false">90–120%, în plus față de dimensiunea textului de sistem.</string>
+    <string name="cards" formatted="false">Carduri și detalii</string>
+    <string name="corners" formatted="false">Colțuri</string>
+    <string name="compact_cards" formatted="false">Carduri compacte</string>
+    <string name="compact_help" formatted="false">Coperți și spații mai mici</string>
+    <string name="show_ranks" formatted="false">Arată pozițiile</string>
+    <string name="ranks_help" formatted="false">Poziție lângă starea jocului</string>
+    <string name="material_note" formatted="false">Material 3</string>
+    <string name="reset_appearance_question" formatted="false">Resetezi aspectul?</string>
+    <string name="reset_appearance_help" formatted="false">Restabilește tema, culorile și fontul de sistem. Elimină fontul importat. Jocurile se păstrează.</string>
+    <string name="preview" formatted="false">Previzualizare</string>
+    <string name="favorite_game" formatted="false">Joc preferat</string>
+    <string name="follow_system" formatted="false">Ca în sistem</string>
+    <string name="light_theme" formatted="false">Luminoasă</string>
+    <string name="dark_theme" formatted="false">Întunecată</string>
+    <string name="system_font" formatted="false">Sistem</string>
+    <string name="sans" formatted="false">Fără serife</string>
+    <string name="serif" formatted="false">Cu serife</string>
+    <string name="condensed" formatted="false">Îngust</string>
+    <string name="mono" formatted="false">Monospațiat</string>
+    <string name="custom" formatted="false">Personalizat</string>
+    <string name="subtle" formatted="false">Discret</string>
+    <string name="balanced" formatted="false">Echilibrat</string>
+    <string name="soft" formatted="false">Fin</string>
+    <string name="shown_count">%1$d / %2$d</string>
+    <string name="average_compact">Medie: %1$s / 10</string>
+    <string name="delete_confirmation">Ștergi „%1$s” din colecție? Acțiunea este ireversibilă.</string>
+    <string name="game_actions">Acțiuni pentru %1$s</string>
+    <string name="minimum_rating">Notă minimă: %1$s</string>
+    <string name="show_count">Arată: %1$d</string>
+    <string name="completions_count">Finalizări: %1$d</string>
+    <string name="rating_value">Notă: %1$s / 10</string>
+    <string name="text_scale">Dimensiune text · %1$d%%</string>
+    <string name="save_file_count">Salvează fișierul · jocuri: %1$d</string>
+    <string name="games_count">Jocuri: %1$d</string>
+    <string name="filtered_count">Jocuri după căutare și filtre: %1$d</string>
+    <string name="added_count">Jocuri adăugate: %1$d</string>
+    <string name="exported_count">Jocuri exportate: %1$d</string>
+    <string name="hours_value">%1$s h</string>
+    <string name="language" formatted="false">Limbă</string>
+    <string name="language_help" formatted="false">Limbă</string>
+    <string name="system_language" formatted="false">Limba sistemului</string>
+    <string name="language_note" formatted="false">Se aplică interfeței. Titlurile și notițele rămân neschimbate.</string>
+    <string name="total_games" formatted="false">Total jocuri</string>
+    <string name="average_rating" formatted="false">Notă medie</string>
+    <string name="completions" formatted="false">Finalizări</string>
+    <string name="empty_collection" formatted="false">Colecția este goală.</string>
+    <string name="cover_link" formatted="false">Link către copertă</string>
+    <string name="export_destination" formatted="false">Destinația exportului</string>
+    <string name="to_file" formatted="false">Fișier</string>
+    <string name="to_file_help" formatted="false">Salvează ca JSON sau TXT</string>
+    <string name="to_clipboard" formatted="false">Clipboard</string>
+    <string name="to_clipboard_help" formatted="false">Copiază exportul pentru a-l folosi în altă aplicație</string>
+    <string name="copy_count">Copiază %1$d jocuri</string>
+    <string name="copied_count">%1$d jocuri copiate</string>
+    <string name="export_content" formatted="false">Conținutul exportului</string>
+    <string name="full_report" formatted="false">Raport complet</string>
+    <string name="full_report_help" formatted="false">Toate câmpurile selectate și statisticile colecției</string>
+    <string name="top_only" formatted="false">Doar clasamentul</string>
+    <string name="top_only_help" formatted="false">Doar poziția, titlul jocului și nota</string>
+    <string name="sync_unavailable" formatted="false">Serverul nu este încă disponibil</string>
+    <string name="sync_client_note" formatted="false">Configurarea clientului. Nu se trimit date fără un adaptor de server.</string>
+    <string name="sync_enable" formatted="false">Activează sincronizarea</string>
+    <string name="sync_enabled_pending" formatted="false">Activată; așteaptă conectarea serverului</string>
+    <string name="sync_disabled" formatted="false">Sincronizare dezactivată</string>
+    <string name="sync_server" formatted="false">Adresa serverului</string>
+    <string name="sync_invalid_url" formatted="false">Introdu o adresă HTTPS validă fără acreditări, parametri sau fragment.</string>
+    <string name="sync_url_help" formatted="false">Adresa HTTPS de bază a viitorului server</string>
+    <string name="sync_save" formatted="false">Salvează setările</string>
+    <string name="sync_now" formatted="false">Verifică sincronizarea</string>
+</resources>

@@ -1,36 +1,54 @@
 package com.bobon.mygametop
 
 import android.os.Bundle
+import android.content.Context
+import androidx.compose.runtime.LaunchedEffect
+import com.bobon.mygametop.localization.AndroidLocales
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import androidx.navigation.compose.NavHost
-import androidx.navigation.compose.composable
-import androidx.navigation.compose.rememberNavController
-import com.bobon.mygametop.presentation.add.AddGameScreen
-import com.bobon.mygametop.presentation.main.MainScreen
+import androidx.compose.foundation.isSystemInDarkTheme
+import androidx.compose.runtime.SideEffect
+import androidx.compose.runtime.getValue
+import androidx.core.view.WindowCompat
+import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import org.koin.android.ext.android.inject
+import com.bobon.mygametop.domain.settings.AppearanceRepository
+import com.bobon.mygametop.domain.settings.ThemeMode
 import com.bobon.mygametop.ui.theme.MyApplicationTheme
+import com.bobon.mygametop.navigation.MyTopNavHost
 
-private object Routes { const val MAIN = "main"; const val ADD_GAME = "add_game" }
 
 class MainActivity : ComponentActivity() {
+    private val appearanceStore: AppearanceRepository by inject()
+    private var appliedLanguage = ""
+    override fun attachBaseContext(newBase: Context) {
+        appliedLanguage = appearanceStore.settings.value.languageTag
+        val localized = AndroidLocales.wrap(newBase, appliedLanguage)
+        android.os.LocaleList.setDefault(localized.resources.configuration.locales)
+        super.attachBaseContext(localized)
+    }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            MyApplicationTheme {
-                val navController = rememberNavController()
-                NavHost(navController = navController, startDestination = Routes.MAIN) {
-                    composable(Routes.MAIN) {
-                        MainScreen(onAddClick = { navController.navigate(Routes.ADD_GAME) })
-                    }
-                    composable(Routes.ADD_GAME) {
-                        AddGameScreen(
-                            onBack = { navController.popBackStack() },
-                            onSaved = { navController.popBackStack() }
-                        )
-                    }
+            val settings by appearanceStore.settings.collectAsStateWithLifecycle()
+            LaunchedEffect(settings.languageTag) {
+                if (settings.languageTag != appliedLanguage) recreate()
+            }
+            val dark = when (settings.themeMode) {
+                ThemeMode.SYSTEM -> isSystemInDarkTheme()
+                ThemeMode.LIGHT -> false
+                ThemeMode.DARK -> true
+            }
+            SideEffect {
+                WindowCompat.getInsetsController(window, window.decorView).apply {
+                    isAppearanceLightStatusBars = !dark
+                    isAppearanceLightNavigationBars = !dark
                 }
+            }
+            MyApplicationTheme(settings) {
+                MyTopNavHost()
             }
         }
     }

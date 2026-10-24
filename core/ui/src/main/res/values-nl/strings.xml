@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cover_image" formatted="false">Gamecover</string>
+    <string name="no_cover" formatted="false">Geen cover</string>
+    <string name="cover_unavailable" formatted="false">Cover niet beschikbaar</string>
+    <string name="edit_game" formatted="false">Game bewerken</string>
+    <string name="new_game" formatted="false">Nieuwe game</string>
+    <string name="back" formatted="false">Terug</string>
+    <string name="saving" formatted="false">Opslaan…</string>
+    <string name="save" formatted="false">Opslaan</string>
+    <string name="game_unavailable" formatted="false">Game niet beschikbaar. Ga terug naar de collectie.</string>
+    <string name="basics" formatted="false">Basisgegevens</string>
+    <string name="title_required" formatted="false">Titel *</string>
+    <string name="decrease" formatted="false">Verlagen</string>
+    <string name="increase" formatted="false">Verhogen</string>
+    <string name="status_required" formatted="false">Status *</string>
+    <string name="additional" formatted="false">Meer details</string>
+    <string name="series" formatted="false">Reeks</string>
+    <string name="universe" formatted="false">Universum</string>
+    <string name="genres" formatted="false">Genres</string>
+    <string name="developers" formatted="false">Ontwikkelaars</string>
+    <string name="release_year" formatted="false">Jaar van uitgave</string>
+    <string name="platforms" formatted="false">Platforms</string>
+    <string name="tags" formatted="false">Tags</string>
+    <string name="opinion" formatted="false">Mijn recensie</string>
+    <string name="playtime" formatted="false">Speeltijd</string>
+    <string name="hours" formatted="false">u</string>
+    <string name="cover" formatted="false">Cover</string>
+    <string name="select" formatted="false">Kiezen</string>
+    <string name="replace" formatted="false">Vervangen</string>
+    <string name="remove" formatted="false">Verwijderen</string>
+    <string name="completion_dates" formatted="false">Voltooiingsdatums</string>
+    <string name="delete" formatted="false">Verwijderen</string>
+    <string name="add_date" formatted="false">Datum toevoegen</string>
+    <string name="add" formatted="false">Toevoegen</string>
+    <string name="cancel" formatted="false">Annuleren</string>
+    <string name="playing" formatted="false">Aan het spelen</string>
+    <string name="completed" formatted="false">Voltooid</string>
+    <string name="replaying" formatted="false">Opnieuw spelen</string>
+    <string name="dropped" formatted="false">Gestopt</string>
+    <string name="game_not_found" formatted="false">Game niet gevonden</string>
+    <string name="load_game_error" formatted="false">Game kon niet worden geladen</string>
+    <string name="title_needed" formatted="false">Voer een titel in om op te slaan</string>
+    <string name="save_game_error" formatted="false">Game kon niet worden opgeslagen</string>
+    <string name="load_collection_error" formatted="false">Collectie kon niet worden geladen</string>
+    <string name="import_error" formatted="false">JSON importeren mislukt. Controleer indeling en toegang.</string>
+    <string name="export_error" formatted="false">Collectie exporteren mislukt</string>
+    <string name="export_retry" formatted="false">Open de exportinstellingen opnieuw</string>
+    <string name="delete_error" formatted="false">Game verwijderen mislukt</string>
+    <string name="game_deleted" formatted="false">Game verwijderd</string>
+    <string name="already_deleted" formatted="false">Game al verwijderd</string>
+    <string name="app_name" formatted="false">Mijn gametop</string>
+    <string name="settings" formatted="false">Instellingen</string>
+    <string name="transfer" formatted="false">Importeren en exporteren</string>
+    <string name="import_json" formatted="false">JSON importeren</string>
+    <string name="export_collection" formatted="false">Collectie exporteren</string>
+    <string name="add_game" formatted="false">Game toevoegen</string>
+    <string name="search_hint" formatted="false">Games, genres, platforms</string>
+    <string name="clear_search" formatted="false">Zoekopdracht wissen</string>
+    <string name="filters" formatted="false">Filters</string>
+    <string name="empty_title" formatted="false">Je top begint hier</string>
+    <string name="no_results" formatted="false">Geen games gevonden</string>
+    <string name="empty_help" formatted="false">Voeg een game toe of importeer JSON.</string>
+    <string name="no_results_help" formatted="false">Wijzig de zoekopdracht of wis de filters.</string>
+    <string name="reset_search" formatted="false">Zoekopdracht en filters wissen</string>
+    <string name="delete_question" formatted="false">Game verwijderen?</string>
+    <string name="edit" formatted="false">Bewerken</string>
+    <string name="filter_title" formatted="false">Games filteren</string>
+    <string name="status" formatted="false">Status</string>
+    <string name="all" formatted="false">Alle</string>
+    <string name="genre" formatted="false">Genre</string>
+    <string name="all_genres" formatted="false">Alle genres</string>
+    <string name="reset" formatted="false">Herstellen</string>
+    <string name="close" formatted="false">Sluiten</string>
+    <string name="delete_game" formatted="false">Game verwijderen</string>
+    <string name="sort_best" formatted="false">Hoogste score eerst</string>
+    <string name="sort_rating_asc" formatted="false">Laagste score eerst</string>
+    <string name="sort_title" formatted="false">Op titel</string>
+    <string name="sort_newest" formatted="false">Recent toegevoegd</string>
+    <string name="sort_year" formatted="false">Op jaar van uitgave</string>
+    <string name="choose_json" formatted="false">JSON-bestand kiezen</string>
+    <string name="import_title" formatted="false">Games uit bestand toevoegen</string>
+    <string name="import_intro" formatted="false">Gebruik dit JSON-formaat. Voeg games toe aan de lijst games.</string>
+    <string name="copied" formatted="false">Voorbeeld gekopieerd</string>
+    <string name="copy_example" formatted="false">Voorbeeld kopiëren</string>
+    <string name="required_fields" formatted="false">Verplichte velden</string>
+    <string name="required_help" formatted="false">title: Titel\nrating: 0–10\nstatus: Status\ncompletions: Voltooiingen (≥0)</string>
+    <string name="statuses" formatted="false">Statussen</string>
+    <string name="statuses_help" formatted="false">PLAYING: Aan het spelen\nCOMPLETED: Voltooid\nREPLAYING: Opnieuw spelen\nDROPPED: Gestopt</string>
+    <string name="optional_fields" formatted="false">Optionele velden</string>
+    <string name="optional_help" formatted="false">Lijsten: genres, platforms, tags, developers, completionDates.\nTekst: series, universe, opinion, coverUri.\nGetallen: releaseYear, playtimeHours (0.5).</string>
+    <string name="import_how" formatted="false">Hoe importeren werkt</string>
+    <string name="import_behavior" formatted="false">Games worden toegevoegd. Opnieuw importeren maakt kopieën. Ongeldige bestanden wijzigen niets.</string>
+    <string name="import_limits" formatted="false">Max. 10 MB en 10.000 games. Versie 1 of een losse lijst. Lokale links werken mogelijk niet op andere apparaten.</string>
+    <string name="export_settings" formatted="false">Exportinstellingen</string>
+    <string name="file_format" formatted="false">Bestandsformaat</string>
+    <string name="json_purpose" formatted="false">Collectie overzetten en herstellen</string>
+    <string name="txt_purpose" formatted="false">Leesbare ranglijst met scores</string>
+    <string name="which_games" formatted="false">Te exporteren games</string>
+    <string name="whole_collection" formatted="false">Hele collectie</string>
+    <string name="current_selection" formatted="false">Huidige selectie</string>
+    <string name="export_order" formatted="false">Zelfde volgorde als op het hoofdscherm.</string>
+    <string name="which_fields" formatted="false">Te exporteren gegevens</string>
+    <string name="required_export" formatted="false">Altijd inbegrepen: Titel, Score, Status, Voltooiingen.</string>
+    <string name="game_details" formatted="false">Gamedetails</string>
+    <string name="metadata_help" formatted="false">Reeks, Universum, Genres, Tags, Ontwikkelaars, Platforms, Jaar van uitgave</string>
+    <string name="history" formatted="false">Speelgeschiedenis</string>
+    <string name="history_help" formatted="false">Voltooiingsdatums · Speeltijd</string>
+    <string name="opinion_help" formatted="false">Je notities en indrukken</string>
+    <string name="cover_links" formatted="false">Coverlinks</string>
+    <string name="cover_links_help" formatted="false">Lokale links, zonder afbeeldingen</string>
+    <string name="export_warning" formatted="false">Uitgeschakelde velden ontbreken in JSON. Kies alle velden en de hele collectie voor een volledige back-up.</string>
+    <string name="make_it_yours" formatted="false">Maak je top persoonlijk</string>
+    <string name="settings_intro" formatted="false">Kleuren, lettertypen en details voor je collectie.</string>
+    <string name="appearance" formatted="false">Uiterlijk</string>
+    <string name="appearance_summary" formatted="false">Thema · Kleuren · Lettertype · Kaarten en details</string>
+    <string name="other_settings" formatted="false">Overige instellingen</string>
+    <string name="notifications" formatted="false">Meldingen</string>
+    <string name="notifications_soon" formatted="false">Binnenkort · gameherinneringen</string>
+    <string name="sync" formatted="false">Synchronisatie</string>
+    <string name="sync_soon" formatted="false">Binnenkort · op meerdere apparaten</string>
+    <string name="settings_soon" formatted="false">Deze onderdelen volgen later. Importeren en exporteren staan in het hoofdmenu.</string>
+    <string name="iris" formatted="false">Iris</string>
+    <string name="ocean" formatted="false">Oceaan</string>
+    <string name="forest" formatted="false">Bos</string>
+    <string name="rose" formatted="false">Roos</string>
+    <string name="amber" formatted="false">Amber</string>
+    <string name="graphite" formatted="false">Grafiet</string>
+    <string name="font_applied" formatted="false">Lettertype geïmporteerd en toegepast</string>
+    <string name="font_error" formatted="false">Lettertype laden mislukt. Kies een geldig TTF/OTF-bestand tot 5 MB.</string>
+    <string name="reset_appearance" formatted="false">Uiterlijk herstellen</string>
+    <string name="your_style" formatted="false">Jouw stijl. Jouw top.</string>
+    <string name="auto_save" formatted="false">Wijzigingen worden direct toegepast en opgeslagen.</string>
+    <string name="theme" formatted="false">Thema</string>
+    <string name="colors" formatted="false">Kleuren</string>
+    <string name="system_colors" formatted="false">Systeemkleuren</string>
+    <string name="system_colors_help" formatted="false">Palet op basis van je achtergrond</string>
+    <string name="system_colors_unavailable" formatted="false">Vereist Android 12. Je accent wordt gebruikt.</string>
+    <string name="accent_palette" formatted="false">Accentpalet</string>
+    <string name="custom_hex" formatted="false">Eigen HEX-accent</string>
+    <string name="hex_help" formatted="false">Voer 6 hextekens in, bijv. #7C4DFF</string>
+    <string name="tonal_help" formatted="false">Maakt een tonaal palet van je accent</string>
+    <string name="apply_accent" formatted="false">Accent toepassen</string>
+    <string name="font" formatted="false">Lettertype</string>
+    <string name="custom_font" formatted="false">Eigen lettertype</string>
+    <string name="loading" formatted="false">Laden…</string>
+    <string name="import_font" formatted="false">Lettertype importeren</string>
+    <string name="font_help" formatted="false">TTF/OTF tot 5 MB. Wordt in de app bewaard. Kies een lettertype voor je taal.</string>
+    <string name="text_scale_help" formatted="false">90–120%, bovenop de systeemtekstgrootte.</string>
+    <string name="cards" formatted="false">Kaarten en details</string>
+    <string name="corners" formatted="false">Hoeken</string>
+    <string name="compact_cards" formatted="false">Compacte kaarten</string>
+    <string name="compact_help" formatted="false">Kleinere covers en tussenruimtes</string>
+    <string name="show_ranks" formatted="false">Posities tonen</string>
+    <string name="ranks_help" formatted="false">Positie naast de gamestatus</string>
+    <string name="material_note" formatted="false">Material 3</string>
+    <string name="reset_appearance_question" formatted="false">Uiterlijk herstellen?</string>
+    <string name="reset_appearance_help" formatted="false">Herstelt systeemthema, kleuren en lettertype. Verwijdert het geïmporteerde lettertype. Games blijven bewaard.</string>
+    <string name="preview" formatted="false">Voorbeeld</string>
+    <string name="favorite_game" formatted="false">Favoriete game</string>
+    <string name="follow_system" formatted="false">Systeem volgen</string>
+    <string name="light_theme" formatted="false">Licht</string>
+    <string name="dark_theme" formatted="false">Donker</string>
+    <string name="system_font" formatted="false">Systeem</string>
+    <string name="sans" formatted="false">Schreefloos</string>
+    <string name="serif" formatted="false">Met schreef</string>
+    <string name="condensed" formatted="false">Smal</string>
+    <string name="mono" formatted="false">Monospace</string>
+    <string name="custom" formatted="false">Eigen</string>
+    <string name="subtle" formatted="false">Subtiel</string>
+    <string name="balanced" formatted="false">Gebalanceerd</string>
+    <string name="soft" formatted="false">Zacht</string>
+    <string name="shown_count">%1$d / %2$d</string>
+    <string name="average_compact">Gem.: %1$s / 10</string>
+    <string name="delete_confirmation">‘%1$s’ uit de collectie verwijderen? Dit kan niet ongedaan worden gemaakt.</string>
+    <string name="game_actions">Acties voor %1$s</string>
+    <string name="minimum_rating">Score vanaf %1$s</string>
+    <string name="show_count">Tonen: %1$d</string>
+    <string name="completions_count">Voltooiingen: %1$d</string>
+    <string name="rating_value">Score: %1$s / 10</string>
+    <string name="text_scale">Tekstgrootte · %1$d%%</string>
+    <string name="save_file_count">Bestand opslaan · games: %1$d</string>
+    <string name="games_count">Games: %1$d</string>
+    <string name="filtered_count">Games met zoekopdracht en filters: %1$d</string>
+    <string name="added_count">Games toegevoegd: %1$d</string>
+    <string name="exported_count">Games geëxporteerd: %1$d</string>
+    <string name="hours_value">%1$s u</string>
+    <string name="language" formatted="false">Taal</string>
+    <string name="language_help" formatted="false">Taal</string>
+    <string name="system_language" formatted="false">Systeemtaal</string>
+    <string name="language_note" formatted="false">Geldt voor de interface. Gametitels en notities blijven ongewijzigd.</string>
+    <string name="total_games" formatted="false">Totaal games</string>
+    <string name="average_rating" formatted="false">Gemiddelde score</string>
+    <string name="completions" formatted="false">Voltooiingen</string>
+    <string name="empty_collection" formatted="false">De collectie is leeg.</string>
+    <string name="cover_link" formatted="false">Coverlink</string>
+    <string name="export_destination" formatted="false">Exportbestemming</string>
+    <string name="to_file" formatted="false">Bestand</string>
+    <string name="to_file_help" formatted="false">Opslaan als JSON of TXT</string>
+    <string name="to_clipboard" formatted="false">Klembord</string>
+    <string name="to_clipboard_help" formatted="false">Kopieer de export voor gebruik in een andere app</string>
+    <string name="copy_count">%1$d games kopiëren</string>
+    <string name="copied_count">%1$d games gekopieerd</string>
+    <string name="export_content" formatted="false">Exportinhoud</string>
+    <string name="full_report" formatted="false">Volledig rapport</string>
+    <string name="full_report_help" formatted="false">Alle gekozen velden en collectiestatistieken</string>
+    <string name="top_only" formatted="false">Alleen de top</string>
+    <string name="top_only_help" formatted="false">Alleen positie, gamenaam en beoordeling</string>
+    <string name="sync_unavailable" formatted="false">Server nog niet beschikbaar</string>
+    <string name="sync_client_note" formatted="false">Clientinstellingen. Er worden geen gegevens verzonden zonder serveradapter.</string>
+    <string name="sync_enable" formatted="false">Synchronisatie inschakelen</string>
+    <string name="sync_enabled_pending" formatted="false">Ingeschakeld; wacht op serververbinding</string>
+    <string name="sync_disabled" formatted="false">Synchronisatie staat uit</string>
+    <string name="sync_server" formatted="false">Serveradres</string>
+    <string name="sync_invalid_url" formatted="false">Voer een geldig HTTPS-adres in zonder inloggegevens, query of fragment.</string>
+    <string name="sync_url_help" formatted="false">HTTPS-basisadres van de toekomstige server</string>
+    <string name="sync_save" formatted="false">Instellingen opslaan</string>
+    <string name="sync_now" formatted="false">Synchronisatie controleren</string>
+</resources>

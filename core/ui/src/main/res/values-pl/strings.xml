@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cover_image" formatted="false">Okładka gry</string>
+    <string name="no_cover" formatted="false">Bez okładki</string>
+    <string name="cover_unavailable" formatted="false">Okładka niedostępna</string>
+    <string name="edit_game" formatted="false">Edytuj grę</string>
+    <string name="new_game" formatted="false">Nowa gra</string>
+    <string name="back" formatted="false">Wstecz</string>
+    <string name="saving" formatted="false">Zapisywanie…</string>
+    <string name="save" formatted="false">Zapisz</string>
+    <string name="game_unavailable" formatted="false">Gra niedostępna. Wróć do kolekcji.</string>
+    <string name="basics" formatted="false">Podstawowe dane</string>
+    <string name="title_required" formatted="false">Tytuł *</string>
+    <string name="decrease" formatted="false">Zmniejsz</string>
+    <string name="increase" formatted="false">Zwiększ</string>
+    <string name="status_required" formatted="false">Status *</string>
+    <string name="additional" formatted="false">Więcej szczegółów</string>
+    <string name="series" formatted="false">Seria</string>
+    <string name="universe" formatted="false">Uniwersum</string>
+    <string name="genres" formatted="false">Gatunki</string>
+    <string name="developers" formatted="false">Twórcy</string>
+    <string name="release_year" formatted="false">Rok wydania</string>
+    <string name="platforms" formatted="false">Platformy</string>
+    <string name="tags" formatted="false">Tagi</string>
+    <string name="opinion" formatted="false">Moja opinia</string>
+    <string name="playtime" formatted="false">Czas gry</string>
+    <string name="hours" formatted="false">godz.</string>
+    <string name="cover" formatted="false">Okładka</string>
+    <string name="select" formatted="false">Wybierz</string>
+    <string name="replace" formatted="false">Zastąp</string>
+    <string name="remove" formatted="false">Usuń</string>
+    <string name="completion_dates" formatted="false">Daty ukończenia</string>
+    <string name="delete" formatted="false">Usuń</string>
+    <string name="add_date" formatted="false">Dodaj datę</string>
+    <string name="add" formatted="false">Dodaj</string>
+    <string name="cancel" formatted="false">Anuluj</string>
+    <string name="playing" formatted="false">W trakcie</string>
+    <string name="completed" formatted="false">Ukończona</string>
+    <string name="replaying" formatted="false">Gram ponownie</string>
+    <string name="dropped" formatted="false">Porzucona</string>
+    <string name="game_not_found" formatted="false">Nie znaleziono gry</string>
+    <string name="load_game_error" formatted="false">Nie udało się wczytać gry</string>
+    <string name="title_needed" formatted="false">Wpisz tytuł, aby zapisać</string>
+    <string name="save_game_error" formatted="false">Nie udało się zapisać gry</string>
+    <string name="load_collection_error" formatted="false">Nie udało się wczytać kolekcji</string>
+    <string name="import_error" formatted="false">Import JSON nie powiódł się. Sprawdź format i dostęp do pliku.</string>
+    <string name="export_error" formatted="false">Nie udało się wyeksportować kolekcji</string>
+    <string name="export_retry" formatted="false">Otwórz ponownie ustawienia eksportu</string>
+    <string name="delete_error" formatted="false">Nie udało się usunąć gry</string>
+    <string name="game_deleted" formatted="false">Gra usunięta</string>
+    <string name="already_deleted" formatted="false">Gra jest już usunięta</string>
+    <string name="app_name" formatted="false">Mój top gier</string>
+    <string name="settings" formatted="false">Ustawienia</string>
+    <string name="transfer" formatted="false">Import i eksport</string>
+    <string name="import_json" formatted="false">Importuj JSON</string>
+    <string name="export_collection" formatted="false">Eksportuj kolekcję</string>
+    <string name="add_game" formatted="false">Dodaj grę</string>
+    <string name="search_hint" formatted="false">Gry, gatunki, platformy</string>
+    <string name="clear_search" formatted="false">Wyczyść wyszukiwanie</string>
+    <string name="filters" formatted="false">Filtry</string>
+    <string name="empty_title" formatted="false">Twój top zaczyna się tutaj</string>
+    <string name="no_results" formatted="false">Nie znaleziono gier</string>
+    <string name="empty_help" formatted="false">Dodaj grę lub zaimportuj kolekcję JSON.</string>
+    <string name="no_results_help" formatted="false">Zmień wyszukiwanie lub zresetuj filtry.</string>
+    <string name="reset_search" formatted="false">Resetuj wyszukiwanie i filtry</string>
+    <string name="delete_question" formatted="false">Usunąć grę?</string>
+    <string name="edit" formatted="false">Edytuj</string>
+    <string name="filter_title" formatted="false">Filtruj gry</string>
+    <string name="status" formatted="false">Status</string>
+    <string name="all" formatted="false">Wszystkie</string>
+    <string name="genre" formatted="false">Gatunek</string>
+    <string name="all_genres" formatted="false">Wszystkie gatunki</string>
+    <string name="reset" formatted="false">Resetuj</string>
+    <string name="close" formatted="false">Zamknij</string>
+    <string name="delete_game" formatted="false">Usuń grę</string>
+    <string name="sort_best" formatted="false">Najwyższe oceny</string>
+    <string name="sort_rating_asc" formatted="false">Najniższe oceny</string>
+    <string name="sort_title" formatted="false">Według tytułu</string>
+    <string name="sort_newest" formatted="false">Ostatnio dodane</string>
+    <string name="sort_year" formatted="false">Według roku wydania</string>
+    <string name="choose_json" formatted="false">Wybierz plik JSON</string>
+    <string name="import_title" formatted="false">Dodaj gry z pliku</string>
+    <string name="import_intro" formatted="false">Użyj tego formatu JSON. Dodaj gry do tablicy games.</string>
+    <string name="copied" formatted="false">Przykład skopiowany</string>
+    <string name="copy_example" formatted="false">Kopiuj przykład</string>
+    <string name="required_fields" formatted="false">Pola wymagane</string>
+    <string name="required_help" formatted="false">title: Tytuł\nrating: 0–10\nstatus: Status\ncompletions: Ukończenia (≥0)</string>
+    <string name="statuses" formatted="false">Statusy</string>
+    <string name="statuses_help" formatted="false">PLAYING: W trakcie\nCOMPLETED: Ukończona\nREPLAYING: Gram ponownie\nDROPPED: Porzucona</string>
+    <string name="optional_fields" formatted="false">Pola opcjonalne</string>
+    <string name="optional_help" formatted="false">Listy: genres, platforms, tags, developers, completionDates.\nTekst: series, universe, opinion, coverUri.\nLiczby: releaseYear, playtimeHours (0.5).</string>
+    <string name="import_how" formatted="false">Jak działa import</string>
+    <string name="import_behavior" formatted="false">Gry są dodawane. Ponowny import tworzy kopie. Nieprawidłowy plik nic nie zmienia.</string>
+    <string name="import_limits" formatted="false">Maks. 10 MB i 10 000 gier. Wersja 1 lub zwykła tablica. Lokalne linki mogą nie działać na innym urządzeniu.</string>
+    <string name="export_settings" formatted="false">Ustawienia eksportu</string>
+    <string name="file_format" formatted="false">Format pliku</string>
+    <string name="json_purpose" formatted="false">Przenoszenie i odtwarzanie kolekcji</string>
+    <string name="txt_purpose" formatted="false">Czytelny ranking z ocenami</string>
+    <string name="which_games" formatted="false">Gry do eksportu</string>
+    <string name="whole_collection" formatted="false">Cała kolekcja</string>
+    <string name="current_selection" formatted="false">Bieżący wybór</string>
+    <string name="export_order" formatted="false">Kolejność jak na ekranie głównym.</string>
+    <string name="which_fields" formatted="false">Dane do eksportu</string>
+    <string name="required_export" formatted="false">Zawsze uwzględnione: Tytuł, Ocena, Status, Ukończenia.</string>
+    <string name="game_details" formatted="false">Szczegóły gry</string>
+    <string name="metadata_help" formatted="false">Seria, Uniwersum, Gatunki, Tagi, Twórcy, Platformy, Rok wydania</string>
+    <string name="history" formatted="false">Historia rozgrywki</string>
+    <string name="history_help" formatted="false">Daty ukończenia · Czas gry</string>
+    <string name="opinion_help" formatted="false">Twoje notatki i wrażenia</string>
+    <string name="cover_links" formatted="false">Linki do okładek</string>
+    <string name="cover_links_help" formatted="false">Linki lokalne, bez obrazów</string>
+    <string name="export_warning" formatted="false">Wyłączone pola nie trafią do JSON. Pełna kopia wymaga wszystkich pól i całej kolekcji.</string>
+    <string name="make_it_yours" formatted="false">Twój własny top</string>
+    <string name="settings_intro" formatted="false">Kolory, czcionki i detale kolekcji.</string>
+    <string name="appearance" formatted="false">Wygląd</string>
+    <string name="appearance_summary" formatted="false">Motyw · Kolory · Czcionka · Karty i szczegóły</string>
+    <string name="other_settings" formatted="false">Inne ustawienia</string>
+    <string name="notifications" formatted="false">Powiadomienia</string>
+    <string name="notifications_soon" formatted="false">Wkrótce · przypomnienia o grach</string>
+    <string name="sync" formatted="false">Synchronizacja</string>
+    <string name="sync_soon" formatted="false">Wkrótce · na wielu urządzeniach</string>
+    <string name="settings_soon" formatted="false">Te sekcje pojawią się później. Import i eksport znajdziesz w menu głównym.</string>
+    <string name="iris" formatted="false">Irys</string>
+    <string name="ocean" formatted="false">Ocean</string>
+    <string name="forest" formatted="false">Las</string>
+    <string name="rose" formatted="false">Róża</string>
+    <string name="amber" formatted="false">Bursztyn</string>
+    <string name="graphite" formatted="false">Grafit</string>
+    <string name="font_applied" formatted="false">Czcionka zaimportowana i zastosowana</string>
+    <string name="font_error" formatted="false">Nie udało się wczytać czcionki. Wybierz prawidłowy plik TTF/OTF do 5 MB.</string>
+    <string name="reset_appearance" formatted="false">Resetuj wygląd</string>
+    <string name="your_style" formatted="false">Twój styl. Twój top.</string>
+    <string name="auto_save" formatted="false">Zmiany są stosowane i zapisywane od razu.</string>
+    <string name="theme" formatted="false">Motyw</string>
+    <string name="colors" formatted="false">Kolory</string>
+    <string name="system_colors" formatted="false">Kolory systemowe</string>
+    <string name="system_colors_help" formatted="false">Paleta na podstawie tapety</string>
+    <string name="system_colors_unavailable" formatted="false">Wymaga Androida 12. Używany jest Twój akcent.</string>
+    <string name="accent_palette" formatted="false">Paleta akcentu</string>
+    <string name="custom_hex" formatted="false">Własny akcent HEX</string>
+    <string name="hex_help" formatted="false">Wpisz 6 znaków HEX, np. #7C4DFF</string>
+    <string name="tonal_help" formatted="false">Tworzy paletę tonalną z akcentu</string>
+    <string name="apply_accent" formatted="false">Zastosuj akcent</string>
+    <string name="font" formatted="false">Czcionka</string>
+    <string name="custom_font" formatted="false">Własna czcionka</string>
+    <string name="loading" formatted="false">Wczytywanie…</string>
+    <string name="import_font" formatted="false">Importuj czcionkę</string>
+    <string name="font_help" formatted="false">TTF/OTF do 5 MB. Przechowywana w aplikacji. Wybierz czcionkę obsługującą Twój język.</string>
+    <string name="text_scale_help" formatted="false">90–120%, dodatkowo do rozmiaru tekstu systemowego.</string>
+    <string name="cards" formatted="false">Karty i szczegóły</string>
+    <string name="corners" formatted="false">Zaokrąglenia</string>
+    <string name="compact_cards" formatted="false">Kompaktowe karty</string>
+    <string name="compact_help" formatted="false">Mniejsze okładki i odstępy</string>
+    <string name="show_ranks" formatted="false">Pokaż pozycje</string>
+    <string name="ranks_help" formatted="false">Pozycja obok statusu gry</string>
+    <string name="material_note" formatted="false">Material 3</string>
+    <string name="reset_appearance_question" formatted="false">Zresetować wygląd?</string>
+    <string name="reset_appearance_help" formatted="false">Przywraca systemowy motyw, kolory i czcionkę. Usuwa importowaną czcionkę. Gry pozostają.</string>
+    <string name="preview" formatted="false">Podgląd</string>
+    <string name="favorite_game" formatted="false">Ulubiona gra</string>
+    <string name="follow_system" formatted="false">Jak w systemie</string>
+    <string name="light_theme" formatted="false">Jasny</string>
+    <string name="dark_theme" formatted="false">Ciemny</string>
+    <string name="system_font" formatted="false">Systemowa</string>
+    <string name="sans" formatted="false">Bezszeryfowa</string>
+    <string name="serif" formatted="false">Szeryfowa</string>
+    <string name="condensed" formatted="false">Wąska</string>
+    <string name="mono" formatted="false">Monospace</string>
+    <string name="custom" formatted="false">Własna</string>
+    <string name="subtle" formatted="false">Subtelnie</string>
+    <string name="balanced" formatted="false">Równowaga</string>
+    <string name="soft" formatted="false">Miękko</string>
+    <string name="shown_count">%1$d / %2$d</string>
+    <string name="average_compact">Średnia: %1$s / 10</string>
+    <string name="delete_confirmation">Usunąć „%1$s” z kolekcji? Tej czynności nie można cofnąć.</string>
+    <string name="game_actions">Działania dla %1$s</string>
+    <string name="minimum_rating">Ocena od %1$s</string>
+    <string name="show_count">Pokaż: %1$d</string>
+    <string name="completions_count">Ukończenia: %1$d</string>
+    <string name="rating_value">Ocena: %1$s / 10</string>
+    <string name="text_scale">Rozmiar tekstu · %1$d%%</string>
+    <string name="save_file_count">Zapisz plik · gry: %1$d</string>
+    <string name="games_count">Gry: %1$d</string>
+    <string name="filtered_count">Gry po wyszukiwaniu i filtrach: %1$d</string>
+    <string name="added_count">Dodane gry: %1$d</string>
+    <string name="exported_count">Wyeksportowane gry: %1$d</string>
+    <string name="hours_value">%1$s godz.</string>
+    <string name="language" formatted="false">Język</string>
+    <string name="language_help" formatted="false">Język</string>
+    <string name="system_language" formatted="false">Język systemowy</string>
+    <string name="language_note" formatted="false">Dotyczy interfejsu. Tytuły gier i notatki pozostają bez zmian.</string>
+    <string name="total_games" formatted="false">Łącznie gier</string>
+    <string name="average_rating" formatted="false">Średnia ocena</string>
+    <string name="completions" formatted="false">Ukończenia</string>
+    <string name="empty_collection" formatted="false">Kolekcja jest pusta.</string>
+    <string name="cover_link" formatted="false">Link do okładki</string>
+    <string name="export_destination" formatted="false">Miejsce eksportu</string>
+    <string name="to_file" formatted="false">Plik</string>
+    <string name="to_file_help" formatted="false">Zapisz jako JSON lub TXT</string>
+    <string name="to_clipboard" formatted="false">Schowek</string>
+    <string name="to_clipboard_help" formatted="false">Skopiuj eksport do użycia w innej aplikacji</string>
+    <string name="copy_count">Kopiuj gry: %1$d</string>
+    <string name="copied_count">Skopiowano gry: %1$d</string>
+    <string name="export_content" formatted="false">Zawartość eksportu</string>
+    <string name="full_report" formatted="false">Pełny raport</string>
+    <string name="full_report_help" formatted="false">Wszystkie wybrane pola i statystyki kolekcji</string>
+    <string name="top_only" formatted="false">Tylko ranking</string>
+    <string name="top_only_help" formatted="false">Tylko pozycja, tytuł gry i ocena</string>
+    <string name="sync_unavailable" formatted="false">Serwer jeszcze niedostępny</string>
+    <string name="sync_client_note" formatted="false">Konfiguracja klienta. Bez adaptera serwera żadne dane nie są wysyłane.</string>
+    <string name="sync_enable" formatted="false">Włącz synchronizację</string>
+    <string name="sync_enabled_pending" formatted="false">Włączona; oczekiwanie na serwer</string>
+    <string name="sync_disabled" formatted="false">Synchronizacja wyłączona</string>
+    <string name="sync_server" formatted="false">Adres serwera</string>
+    <string name="sync_invalid_url" formatted="false">Wpisz poprawny adres HTTPS bez danych logowania, parametrów i fragmentu.</string>
+    <string name="sync_url_help" formatted="false">Bazowy adres HTTPS przyszłego serwera</string>
+    <string name="sync_save" formatted="false">Zapisz ustawienia</string>
+    <string name="sync_now" formatted="false">Sprawdź synchronizację</string>
+</resources>

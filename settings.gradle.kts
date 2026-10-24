@@ -26,3 +26,7 @@ rootProject.name = "MyGameTop"
 include(":app")
 include(":domain")
 include(":data")
+include(":core:ui")
+include(":feature:collection")
+include(":feature:editor")
+include(":feature:settings")

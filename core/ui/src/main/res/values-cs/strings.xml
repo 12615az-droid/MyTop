@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cover_image" formatted="false">Obal hry</string>
+    <string name="no_cover" formatted="false">Bez obalu</string>
+    <string name="cover_unavailable" formatted="false">Obal není dostupný</string>
+    <string name="edit_game" formatted="false">Upravit hru</string>
+    <string name="new_game" formatted="false">Nová hra</string>
+    <string name="back" formatted="false">Zpět</string>
+    <string name="saving" formatted="false">Ukládání…</string>
+    <string name="save" formatted="false">Uložit</string>
+    <string name="game_unavailable" formatted="false">Hra není dostupná. Vraťte se do sbírky.</string>
+    <string name="basics" formatted="false">Základní údaje</string>
+    <string name="title_required" formatted="false">Název *</string>
+    <string name="decrease" formatted="false">Snížit</string>
+    <string name="increase" formatted="false">Zvýšit</string>
+    <string name="status_required" formatted="false">Stav *</string>
+    <string name="additional" formatted="false">Další údaje</string>
+    <string name="series" formatted="false">Série</string>
+    <string name="universe" formatted="false">Svět</string>
+    <string name="genres" formatted="false">Žánry</string>
+    <string name="developers" formatted="false">Vývojáři</string>
+    <string name="release_year" formatted="false">Rok vydání</string>
+    <string name="platforms" formatted="false">Platformy</string>
+    <string name="tags" formatted="false">Štítky</string>
+    <string name="opinion" formatted="false">Můj názor</string>
+    <string name="playtime" formatted="false">Herní doba</string>
+    <string name="hours" formatted="false">h</string>
+    <string name="cover" formatted="false">Obal</string>
+    <string name="select" formatted="false">Vybrat</string>
+    <string name="replace" formatted="false">Nahradit</string>
+    <string name="remove" formatted="false">Odebrat</string>
+    <string name="completion_dates" formatted="false">Data dohrání</string>
+    <string name="delete" formatted="false">Smazat</string>
+    <string name="add_date" formatted="false">Přidat datum</string>
+    <string name="add" formatted="false">Přidat</string>
+    <string name="cancel" formatted="false">Zrušit</string>
+    <string name="playing" formatted="false">Hraji</string>
+    <string name="completed" formatted="false">Dohráno</string>
+    <string name="replaying" formatted="false">Hraji znovu</string>
+    <string name="dropped" formatted="false">Odloženo</string>
+    <string name="game_not_found" formatted="false">Hra nenalezena</string>
+    <string name="load_game_error" formatted="false">Hru nelze načíst</string>
+    <string name="title_needed" formatted="false">Pro uložení zadejte název</string>
+    <string name="save_game_error" formatted="false">Hru nelze uložit</string>
+    <string name="load_collection_error" formatted="false">Sbírku nelze načíst</string>
+    <string name="import_error" formatted="false">Import JSON selhal. Zkontrolujte formát a přístup.</string>
+    <string name="export_error" formatted="false">Sbírku nelze exportovat</string>
+    <string name="export_retry" formatted="false">Otevřete znovu nastavení exportu</string>
+    <string name="delete_error" formatted="false">Hru nelze smazat</string>
+    <string name="game_deleted" formatted="false">Hra smazána</string>
+    <string name="already_deleted" formatted="false">Hra již byla smazána</string>
+    <string name="app_name" formatted="false">Můj herní žebříček</string>
+    <string name="settings" formatted="false">Nastavení</string>
+    <string name="transfer" formatted="false">Import a export</string>
+    <string name="import_json" formatted="false">Importovat JSON</string>
+    <string name="export_collection" formatted="false">Exportovat sbírku</string>
+    <string name="add_game" formatted="false">Přidat hru</string>
+    <string name="search_hint" formatted="false">Hry, žánry, platformy</string>
+    <string name="clear_search" formatted="false">Vymazat hledání</string>
+    <string name="filters" formatted="false">Filtry</string>
+    <string name="empty_title" formatted="false">Tvůj žebříček začíná zde</string>
+    <string name="no_results" formatted="false">Žádné hry nenalezeny</string>
+    <string name="empty_help" formatted="false">Přidejte hru nebo importujte JSON.</string>
+    <string name="no_results_help" formatted="false">Změňte hledání nebo obnovte filtry.</string>
+    <string name="reset_search" formatted="false">Obnovit hledání a filtry</string>
+    <string name="delete_question" formatted="false">Smazat hru?</string>
+    <string name="edit" formatted="false">Upravit</string>
+    <string name="filter_title" formatted="false">Filtrovat hry</string>
+    <string name="status" formatted="false">Stav</string>
+    <string name="all" formatted="false">Vše</string>
+    <string name="genre" formatted="false">Žánr</string>
+    <string name="all_genres" formatted="false">Všechny žánry</string>
+    <string name="reset" formatted="false">Obnovit</string>
+    <string name="close" formatted="false">Zavřít</string>
+    <string name="delete_game" formatted="false">Smazat hru</string>
+    <string name="sort_best" formatted="false">Nejlepší nejdříve</string>
+    <string name="sort_rating_asc" formatted="false">Nejnižší hodnocení</string>
+    <string name="sort_title" formatted="false">Podle názvu</string>
+    <string name="sort_newest" formatted="false">Nedávno přidané</string>
+    <string name="sort_year" formatted="false">Podle roku vydání</string>
+    <string name="choose_json" formatted="false">Vybrat soubor JSON</string>
+    <string name="import_title" formatted="false">Přidat hry ze souboru</string>
+    <string name="import_intro" formatted="false">Použijte tento formát JSON. Hry přidejte do pole games.</string>
+    <string name="copied" formatted="false">Příklad zkopírován</string>
+    <string name="copy_example" formatted="false">Kopírovat příklad</string>
+    <string name="required_fields" formatted="false">Povinná pole</string>
+    <string name="required_help" formatted="false">title: Název\nrating: 0–10\nstatus: Stav\ncompletions: Dohrání (≥0)</string>
+    <string name="statuses" formatted="false">Stavy</string>
+    <string name="statuses_help" formatted="false">PLAYING: Hraji\nCOMPLETED: Dohráno\nREPLAYING: Hraji znovu\nDROPPED: Odloženo</string>
+    <string name="optional_fields" formatted="false">Volitelná pole</string>
+    <string name="optional_help" formatted="false">Seznamy: genres, platforms, tags, developers, completionDates.\nText: series, universe, opinion, coverUri.\nČísla: releaseYear, playtimeHours (0.5).</string>
+    <string name="import_how" formatted="false">Jak funguje import</string>
+    <string name="import_behavior" formatted="false">Hry se přidají. Opakovaný import vytváří kopie. Neplatné soubory nic nezmění.</string>
+    <string name="import_limits" formatted="false">Max. 10 MB a 10 000 her. Verze 1 nebo prosté pole. Místní odkazy nemusí fungovat jinde.</string>
+    <string name="export_settings" formatted="false">Nastavení exportu</string>
+    <string name="file_format" formatted="false">Formát souboru</string>
+    <string name="json_purpose" formatted="false">Přenos a obnovení sbírky</string>
+    <string name="txt_purpose" formatted="false">Čitelný žebříček s hodnocením</string>
+    <string name="which_games" formatted="false">Které hry</string>
+    <string name="whole_collection" formatted="false">Celá sbírka</string>
+    <string name="current_selection" formatted="false">Aktuální výběr</string>
+    <string name="export_order" formatted="false">Řazení jako na hlavní obrazovce.</string>
+    <string name="which_fields" formatted="false">Které údaje</string>
+    <string name="required_export" formatted="false">Vždy zahrnuto: Název, Hodnocení, Stav, Dohrání.</string>
+    <string name="game_details" formatted="false">Podrobnosti hry</string>
+    <string name="metadata_help" formatted="false">Série, Svět, Žánry, Štítky, Vývojáři, Platformy, Rok vydání</string>
+    <string name="history" formatted="false">Historie hraní</string>
+    <string name="history_help" formatted="false">Data dohrání · Herní doba</string>
+    <string name="opinion_help" formatted="false">Vaše poznámky a dojmy</string>
+    <string name="cover_links" formatted="false">Odkazy na obaly</string>
+    <string name="cover_links_help" formatted="false">Místní odkazy bez obrázků</string>
+    <string name="export_warning" formatted="false">Vypnutá pole se do JSON nezahrnou. Pro úplnou zálohu vyberte všechna data a celou sbírku.</string>
+    <string name="make_it_yours" formatted="false">Žebříček podle tebe</string>
+    <string name="settings_intro" formatted="false">Barvy, písma a detaily vaší sbírky.</string>
+    <string name="appearance" formatted="false">Vzhled</string>
+    <string name="appearance_summary" formatted="false">Motiv · Barvy · Písmo · Karty a detaily</string>
+    <string name="other_settings" formatted="false">Další nastavení</string>
+    <string name="notifications" formatted="false">Oznámení</string>
+    <string name="notifications_soon" formatted="false">Již brzy · připomenutí her</string>
+    <string name="sync" formatted="false">Synchronizace</string>
+    <string name="sync_soon" formatted="false">Již brzy · na více zařízeních</string>
+    <string name="settings_soon" formatted="false">Tyto sekce přijdou později. Import a export jsou v hlavní nabídce.</string>
+    <string name="iris" formatted="false">Kosatec</string>
+    <string name="ocean" formatted="false">Oceán</string>
+    <string name="forest" formatted="false">Les</string>
+    <string name="rose" formatted="false">Růže</string>
+    <string name="amber" formatted="false">Jantar</string>
+    <string name="graphite" formatted="false">Grafit</string>
+    <string name="font_applied" formatted="false">Písmo importováno a použito</string>
+    <string name="font_error" formatted="false">Písmo nelze načíst. Vyberte platný soubor TTF/OTF do 5 MB.</string>
+    <string name="reset_appearance" formatted="false">Obnovit vzhled</string>
+    <string name="your_style" formatted="false">Tvůj styl. Tvůj žebříček.</string>
+    <string name="auto_save" formatted="false">Změny se ihned použijí a uloží.</string>
+    <string name="theme" formatted="false">Motiv</string>
+    <string name="colors" formatted="false">Barvy</string>
+    <string name="system_colors" formatted="false">Systémové barvy</string>
+    <string name="system_colors_help" formatted="false">Paleta podle tapety</string>
+    <string name="system_colors_unavailable" formatted="false">Vyžaduje Android 12. Používá se váš akcent.</string>
+    <string name="accent_palette" formatted="false">Paleta akcentu</string>
+    <string name="custom_hex" formatted="false">Vlastní akcent HEX</string>
+    <string name="hex_help" formatted="false">Zadejte 6 znaků HEX, např. #7C4DFF</string>
+    <string name="tonal_help" formatted="false">Vytvoří tónovou paletu z akcentu</string>
+    <string name="apply_accent" formatted="false">Použít akcent</string>
+    <string name="font" formatted="false">Písmo</string>
+    <string name="custom_font" formatted="false">Vlastní písmo</string>
+    <string name="loading" formatted="false">Načítání…</string>
+    <string name="import_font" formatted="false">Importovat písmo</string>
+    <string name="font_help" formatted="false">TTF/OTF do 5 MB. Uloží se v aplikaci. Vyberte písmo pro svůj jazyk.</string>
+    <string name="text_scale_help" formatted="false">90–120 %, navíc k systémové velikosti textu.</string>
+    <string name="cards" formatted="false">Karty a detaily</string>
+    <string name="corners" formatted="false">Rohy</string>
+    <string name="compact_cards" formatted="false">Kompaktní karty</string>
+    <string name="compact_help" formatted="false">Menší obaly a mezery</string>
+    <string name="show_ranks" formatted="false">Zobrazit pořadí</string>
+    <string name="ranks_help" formatted="false">Pořadí vedle stavu hry</string>
+    <string name="material_note" formatted="false">Material 3</string>
+    <string name="reset_appearance_question" formatted="false">Obnovit vzhled?</string>
+    <string name="reset_appearance_help" formatted="false">Obnoví systémový motiv, barvy a písmo. Odstraní importované písmo. Hry zůstanou.</string>
+    <string name="preview" formatted="false">Náhled</string>
+    <string name="favorite_game" formatted="false">Oblíbená hra</string>
+    <string name="follow_system" formatted="false">Podle systému</string>
+    <string name="light_theme" formatted="false">Světlý</string>
+    <string name="dark_theme" formatted="false">Tmavý</string>
+    <string name="system_font" formatted="false">Systémové</string>
+    <string name="sans" formatted="false">Bezpatkové</string>
+    <string name="serif" formatted="false">Patkové</string>
+    <string name="condensed" formatted="false">Úzké</string>
+    <string name="mono" formatted="false">Neproporcionální</string>
+    <string name="custom" formatted="false">Vlastní</string>
+    <string name="subtle" formatted="false">Jemné</string>
+    <string name="balanced" formatted="false">Vyvážené</string>
+    <string name="soft" formatted="false">Měkké</string>
+    <string name="shown_count">%1$d / %2$d</string>
+    <string name="average_compact">Průměr: %1$s / 10</string>
+    <string name="delete_confirmation">Smazat „%1$s“ ze sbírky? Tuto akci nelze vrátit.</string>
+    <string name="game_actions">Akce pro %1$s</string>
+    <string name="minimum_rating">Hodnocení od %1$s</string>
+    <string name="show_count">Zobrazit: %1$d</string>
+    <string name="completions_count">Dohrání: %1$d</string>
+    <string name="rating_value">Hodnocení: %1$s / 10</string>
+    <string name="text_scale">Velikost textu · %1$d%%</string>
+    <string name="save_file_count">Uložit soubor · hry: %1$d</string>
+    <string name="games_count">Hry: %1$d</string>
+    <string name="filtered_count">Hry podle hledání a filtrů: %1$d</string>
+    <string name="added_count">Přidané hry: %1$d</string>
+    <string name="exported_count">Exportované hry: %1$d</string>
+    <string name="hours_value">%1$s h</string>
+    <string name="language" formatted="false">Jazyk</string>
+    <string name="language_help" formatted="false">Jazyk</string>
+    <string name="system_language" formatted="false">Jazyk systému</string>
+    <string name="language_note" formatted="false">Platí pro rozhraní. Názvy her a poznámky se nemění.</string>
+    <string name="total_games" formatted="false">Celkem her</string>
+    <string name="average_rating" formatted="false">Průměrné hodnocení</string>
+    <string name="completions" formatted="false">Dohrání</string>
+    <string name="empty_collection" formatted="false">Sbírka je prázdná.</string>
+    <string name="cover_link" formatted="false">Odkaz na obal</string>
+    <string name="export_destination" formatted="false">Cíl exportu</string>
+    <string name="to_file" formatted="false">Soubor</string>
+    <string name="to_file_help" formatted="false">Uložit jako JSON nebo TXT</string>
+    <string name="to_clipboard" formatted="false">Schránka</string>
+    <string name="to_clipboard_help" formatted="false">Zkopírovat export pro použití v jiné aplikaci</string>
+    <string name="copy_count">Kopírovat her: %1$d</string>
+    <string name="copied_count">Zkopírováno her: %1$d</string>
+    <string name="export_content" formatted="false">Obsah exportu</string>
+    <string name="full_report" formatted="false">Úplný přehled</string>
+    <string name="full_report_help" formatted="false">Všechna vybraná pole a statistiky sbírky</string>
+    <string name="top_only" formatted="false">Pouze žebříček</string>
+    <string name="top_only_help" formatted="false">Pouze pořadí, název hry a hodnocení</string>
+    <string name="sync_unavailable" formatted="false">Server zatím není dostupný</string>
+    <string name="sync_client_note" formatted="false">Nastavení klienta. Bez serverového adaptéru se žádná data neodesílají.</string>
+    <string name="sync_enable" formatted="false">Zapnout synchronizaci</string>
+    <string name="sync_enabled_pending" formatted="false">Zapnuta; čeká na připojení serveru</string>
+    <string name="sync_disabled" formatted="false">Synchronizace je vypnutá</string>
+    <string name="sync_server" formatted="false">Adresa serveru</string>
+    <string name="sync_invalid_url" formatted="false">Zadejte platnou adresu HTTPS bez přihlašovacích údajů, parametrů a fragmentu.</string>
+    <string name="sync_url_help" formatted="false">Základní adresa HTTPS budoucího serveru</string>
+    <string name="sync_save" formatted="false">Uložit nastavení</string>
+    <string name="sync_now" formatted="false">Ověřit synchronizaci</string>
+</resources>

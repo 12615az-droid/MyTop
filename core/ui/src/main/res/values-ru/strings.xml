@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cover_image" formatted="false">Обложка игры</string>
+    <string name="no_cover" formatted="false">Без обложки</string>
+    <string name="cover_unavailable" formatted="false">Обложка недоступна</string>
+    <string name="edit_game" formatted="false">Изменить игру</string>
+    <string name="new_game" formatted="false">Новая игра</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="saving" formatted="false">Сохраняю...</string>
+    <string name="save" formatted="false">Сохранить</string>
+    <string name="game_unavailable" formatted="false">Игра недоступна. Вернитесь к коллекции.</string>
+    <string name="basics" formatted="false">Основное</string>
+    <string name="title_required" formatted="false">Название *</string>
+    <string name="decrease" formatted="false">Уменьшить</string>
+    <string name="increase" formatted="false">Увеличить</string>
+    <string name="status_required" formatted="false">Статус *</string>
+    <string name="additional" formatted="false">Дополнительно</string>
+    <string name="series" formatted="false">Серия</string>
+    <string name="universe" formatted="false">Вселенная</string>
+    <string name="genres" formatted="false">Жанры</string>
+    <string name="developers" formatted="false">Разработчики</string>
+    <string name="release_year" formatted="false">Год</string>
+    <string name="platforms" formatted="false">Платформы</string>
+    <string name="tags" formatted="false">Теги</string>
+    <string name="opinion" formatted="false">Моё мнение</string>
+    <string name="playtime" formatted="false">Время</string>
+    <string name="hours" formatted="false">ч</string>
+    <string name="cover" formatted="false">Обложка</string>
+    <string name="select" formatted="false">Выбрать</string>
+    <string name="replace" formatted="false">Заменить</string>
+    <string name="remove" formatted="false">Убрать</string>
+    <string name="completion_dates" formatted="false">Даты прохождений</string>
+    <string name="delete" formatted="false">Удалить</string>
+    <string name="add_date" formatted="false">Добавить дату</string>
+    <string name="add" formatted="false">Добавить</string>
+    <string name="cancel" formatted="false">Отмена</string>
+    <string name="playing" formatted="false">Прохожу</string>
+    <string name="completed" formatted="false">Пройдено</string>
+    <string name="replaying" formatted="false">Перепрохожу</string>
+    <string name="dropped" formatted="false">Брошено</string>
+    <string name="game_not_found" formatted="false">Игра не найдена</string>
+    <string name="load_game_error" formatted="false">Не удалось загрузить игру</string>
+    <string name="title_needed" formatted="false">Для сохранения нужно название</string>
+    <string name="save_game_error" formatted="false">Не удалось сохранить игру</string>
+    <string name="load_collection_error" formatted="false">Не удалось загрузить коллекцию</string>
+    <string name="import_error" formatted="false">Не удалось импортировать JSON. Проверьте формат и доступ к файлу.</string>
+    <string name="export_error" formatted="false">Не удалось экспортировать коллекцию.</string>
+    <string name="export_retry" formatted="false">Откройте настройки экспорта повторно</string>
+    <string name="delete_error" formatted="false">Не удалось удалить игру.</string>
+    <string name="game_deleted" formatted="false">Игра удалена</string>
+    <string name="already_deleted" formatted="false">Игра уже удалена</string>
+    <string name="app_name" formatted="false">Мой топ</string>
+    <string name="settings" formatted="false">Настройки</string>
+    <string name="transfer" formatted="false">Импорт и экспорт коллекции</string>
+    <string name="import_json" formatted="false">Импорт JSON</string>
+    <string name="export_collection" formatted="false">Экспорт коллекции</string>
+    <string name="add_game" formatted="false">Добавить игру</string>
+    <string name="search_hint" formatted="false">Найти игру, жанр, платформу</string>
+    <string name="clear_search" formatted="false">Очистить поиск</string>
+    <string name="filters" formatted="false">Фильтры</string>
+    <string name="empty_title" formatted="false">Твой топ начинается здесь</string>
+    <string name="no_results" formatted="false">Игры не найдены</string>
+    <string name="empty_help" formatted="false">Добавь первую игру или импортируй коллекцию из JSON.</string>
+    <string name="no_results_help" formatted="false">Попробуй изменить поиск или сбросить фильтры.</string>
+    <string name="reset_search" formatted="false">Сбросить поиск и фильтры</string>
+    <string name="delete_question" formatted="false">Удалить игру?</string>
+    <string name="edit" formatted="false">Изменить</string>
+    <string name="filter_title" formatted="false">Настроить топ</string>
+    <string name="status" formatted="false">Статус</string>
+    <string name="all" formatted="false">Все</string>
+    <string name="genre" formatted="false">Жанр</string>
+    <string name="all_genres" formatted="false">Все жанры</string>
+    <string name="reset" formatted="false">Сбросить</string>
+    <string name="close" formatted="false">Закрыть</string>
+    <string name="delete_game" formatted="false">Удалить игру</string>
+    <string name="sort_best" formatted="false">Сначала лучшие</string>
+    <string name="sort_rating_asc" formatted="false">Оценка по возрастанию</string>
+    <string name="sort_title" formatted="false">По названию</string>
+    <string name="sort_newest" formatted="false">Сначала новые</string>
+    <string name="sort_year" formatted="false">По году выпуска</string>
+    <string name="choose_json" formatted="false">Выбрать JSON-файл</string>
+    <string name="import_title" formatted="false">Добавить игры из файла</string>
+    <string name="import_intro" formatted="false">Сохраните коллекцию в JSON в таком формате. В массив games можно добавить несколько игр.</string>
+    <string name="copied" formatted="false">Пример скопирован</string>
+    <string name="copy_example" formatted="false">Скопировать пример</string>
+    <string name="required_fields" formatted="false">Обязательные поля</string>
+    <string name="required_help" formatted="false">title — название\nrating — оценка от 0 до 10\nstatus — статус игры\ncompletions — число прохождений, от 0</string>
+    <string name="statuses" formatted="false">Статусы</string>
+    <string name="statuses_help" formatted="false">PLAYING — прохожу\nCOMPLETED — пройдено\nREPLAYING — перепрохожу\nDROPPED — брошено</string>
+    <string name="optional_fields" formatted="false">Дополнительные поля</string>
+    <string name="optional_help" formatted="false">genres, platforms, tags, developers, completionDates — списки строк. series, universe, opinion и coverUri — строки. releaseYear — год, playtimeHours — часы. Для дробных чисел используйте точку.</string>
+    <string name="import_how" formatted="false">Как работает импорт</string>
+    <string name="import_behavior" formatted="false">Игры добавляются к коллекции. Повторный импорт создаёт копии. Файл проверяется целиком до сохранения; при ошибке новые игры не добавляются.</string>
+    <string name="import_limits" formatted="false">Лимит: 10 МБ и 10 000 игр. Принимается версия 1 или массив игр без оболочки. Локальные ссылки на обложки могут быть недоступны на другом устройстве.</string>
+    <string name="export_settings" formatted="false">Настройки экспорта</string>
+    <string name="file_format" formatted="false">Формат файла</string>
+    <string name="json_purpose" formatted="false">Для переноса и восстановления коллекции</string>
+    <string name="txt_purpose" formatted="false">Читаемый текстовый топ с оценками</string>
+    <string name="which_games" formatted="false">Какие игры</string>
+    <string name="whole_collection" formatted="false">Вся коллекция</string>
+    <string name="current_selection" formatted="false">Текущая выборка</string>
+    <string name="export_order" formatted="false">Порядок игр соответствует сортировке на главном экране.</string>
+    <string name="which_fields" formatted="false">Какие данные</string>
+    <string name="required_export" formatted="false">Название, оценка, статус и число прохождений включаются всегда.</string>
+    <string name="game_details" formatted="false">Сведения об игре</string>
+    <string name="metadata_help" formatted="false">Серия, вселенная, жанры, теги, разработчики, платформы и год</string>
+    <string name="history" formatted="false">История прохождений</string>
+    <string name="history_help" formatted="false">Даты прохождений и время в игре</string>
+    <string name="opinion_help" formatted="false">Заметки и впечатления об игре</string>
+    <string name="cover_links" formatted="false">Ссылки на обложки</string>
+    <string name="cover_links_help" formatted="false">Локальные ссылки, без самих изображений</string>
+    <string name="export_warning" formatted="false">Отключённые поля не попадут в JSON. Для полной резервной копии включите все данные и выберите всю коллекцию.</string>
+    <string name="make_it_yours" formatted="false">Сделай топ своим</string>
+    <string name="settings_intro" formatted="false">Цвета, шрифты и детали, с которыми приятно возвращаться к любимым играм.</string>
+    <string name="appearance" formatted="false">Оформление</string>
+    <string name="appearance_summary" formatted="false">Тема, палитра, шрифт и карточки</string>
+    <string name="other_settings" formatted="false">Другие настройки</string>
+    <string name="notifications" formatted="false">Уведомления</string>
+    <string name="notifications_soon" formatted="false">Скоро · напоминания об играх</string>
+    <string name="sync" formatted="false">Синхронизация</string>
+    <string name="sync_soon" formatted="false">Скоро · коллекция на разных устройствах</string>
+    <string name="settings_soon" formatted="false">Эти разделы пока недоступны. Импорт и экспорт файлов находятся в меню на главном экране.</string>
+    <string name="iris" formatted="false">Ирис</string>
+    <string name="ocean" formatted="false">Океан</string>
+    <string name="forest" formatted="false">Лес</string>
+    <string name="rose" formatted="false">Роза</string>
+    <string name="amber" formatted="false">Янтарь</string>
+    <string name="graphite" formatted="false">Графит</string>
+    <string name="font_applied" formatted="false">Шрифт добавлен и применён</string>
+    <string name="font_error" formatted="false">Не удалось загрузить шрифт</string>
+    <string name="reset_appearance" formatted="false">Сбросить оформление</string>
+    <string name="your_style" formatted="false">Твой стиль. Твой топ.</string>
+    <string name="auto_save" formatted="false">Изменения применяются сразу и сохраняются автоматически.</string>
+    <string name="theme" formatted="false">Тема</string>
+    <string name="colors" formatted="false">Цвета</string>
+    <string name="system_colors" formatted="false">Цвета системы</string>
+    <string name="system_colors_help" formatted="false">Палитра на основе обоев устройства</string>
+    <string name="system_colors_unavailable" formatted="false">Доступны на Android 12+. Сейчас используется выбранный акцент.</string>
+    <string name="accent_palette" formatted="false">Акцентная палитра</string>
+    <string name="custom_hex" formatted="false">Свой акцент HEX</string>
+    <string name="hex_help" formatted="false">Введите 6 символов: например #7C4DFF</string>
+    <string name="tonal_help" formatted="false">На основе акцента создаётся тональная палитра</string>
+    <string name="apply_accent" formatted="false">Применить акцент</string>
+    <string name="font" formatted="false">Шрифт</string>
+    <string name="custom_font" formatted="false">Свой шрифт</string>
+    <string name="loading" formatted="false">Загрузка…</string>
+    <string name="import_font" formatted="false">Загрузить свой шрифт</string>
+    <string name="font_help" formatted="false">TTF или OTF, до 5 МБ. Шрифт копируется в приложение и будет доступен после перезапуска. Выбирайте файл с поддержкой кириллицы.</string>
+    <string name="text_scale_help" formatted="false">90–120%, дополнительно к размеру текста в системе.</string>
+    <string name="cards" formatted="false">Карточки и детали</string>
+    <string name="corners" formatted="false">Скругление</string>
+    <string name="compact_cards" formatted="false">Компактные карточки</string>
+    <string name="compact_help" formatted="false">Меньше обложки и отступы</string>
+    <string name="show_ranks" formatted="false">Номера в топе</string>
+    <string name="ranks_help" formatted="false">Показывать позицию рядом со статусом</string>
+    <string name="material_note" formatted="false">Кнопки, поля и тональные поверхности сохраняют стиль Material 3.</string>
+    <string name="reset_appearance_question" formatted="false">Сбросить оформление?</string>
+    <string name="reset_appearance_help" formatted="false">Вернутся системная тема, системные цвета и стандартный шрифт. Загруженный шрифт будет удалён из приложения. Игры сохранятся.</string>
+    <string name="preview" formatted="false">Предпросмотр</string>
+    <string name="favorite_game" formatted="false">Любимая игра</string>
+    <string name="follow_system" formatted="false">Как в системе</string>
+    <string name="light_theme" formatted="false">Светлая</string>
+    <string name="dark_theme" formatted="false">Тёмная</string>
+    <string name="system_font" formatted="false">Системный</string>
+    <string name="sans" formatted="false">Без засечек</string>
+    <string name="serif" formatted="false">С засечками</string>
+    <string name="condensed" formatted="false">Узкий</string>
+    <string name="mono" formatted="false">Моно</string>
+    <string name="custom" formatted="false">Свой</string>
+    <string name="subtle" formatted="false">Сдержанно</string>
+    <string name="balanced" formatted="false">Баланс</string>
+    <string name="soft" formatted="false">Мягко</string>
+    <string name="shown_count">%1$d / %2$d</string>
+    <string name="average_compact">Средняя: %1$s / 10</string>
+    <string name="delete_confirmation">Удалить «%1$s» из коллекции? Это действие нельзя отменить.</string>
+    <string name="game_actions">Действия с игрой %1$s</string>
+    <string name="minimum_rating">Оценка от %1$s</string>
+    <string name="show_count">Показать: %1$d</string>
+    <string name="completions_count">Прохождений: %1$d</string>
+    <string name="rating_value">Оценка: %1$s / 10</string>
+    <string name="text_scale">Размер текста · %1$d%%</string>
+    <string name="save_file_count">Сохранить файл · игр: %1$d</string>
+    <string name="games_count">Игр: %1$d</string>
+    <string name="filtered_count">Игр с учётом поиска и фильтров: %1$d</string>
+    <string name="added_count">Добавлено игр: %1$d</string>
+    <string name="exported_count">Экспортировано игр: %1$d</string>
+    <string name="hours_value">%1$s ч</string>
+    <string name="language" formatted="false">Язык</string>
+    <string name="language_help" formatted="false">Язык приложения</string>
+    <string name="system_language" formatted="false">Язык системы</string>
+    <string name="language_note" formatted="false">Применяется к интерфейсу. Названия игр и ваши заметки сохраняются как введены.</string>
+    <string name="total_games" formatted="false">Всего игр</string>
+    <string name="average_rating" formatted="false">Средняя оценка</string>
+    <string name="completions" formatted="false">Прохождений</string>
+    <string name="empty_collection" formatted="false">Коллекция пока пуста.</string>
+    <string name="cover_link" formatted="false">Ссылка на обложку</string>
+    <string name="export_destination" formatted="false">Куда экспортировать</string>
+    <string name="to_file" formatted="false">В файл</string>
+    <string name="to_file_help" formatted="false">Сохранить как JSON или TXT</string>
+    <string name="to_clipboard" formatted="false">В буфер обмена</string>
+    <string name="to_clipboard_help" formatted="false">Скопировать экспорт для вставки в другое приложение</string>
+    <string name="copy_count">Скопировать игр: %1$d</string>
+    <string name="copied_count">Скопировано игр: %1$d</string>
+    <string name="export_content" formatted="false">Состав экспорта</string>
+    <string name="full_report" formatted="false">Полный отчёт</string>
+    <string name="full_report_help" formatted="false">Все выбранные поля и статистика коллекции</string>
+    <string name="top_only" formatted="false">Только топ</string>
+    <string name="top_only_help" formatted="false">Только место, название игры и оценка</string>
+    <string name="sync_unavailable" formatted="false">Сервер пока недоступен</string>
+    <string name="sync_client_note" formatted="false">Настройка клиента. Данные не отправляются, пока не подключён серверный адаптер.</string>
+    <string name="sync_enable" formatted="false">Включить синхронизацию</string>
+    <string name="sync_enabled_pending" formatted="false">Включена в настройках; ожидает подключения сервера</string>
+    <string name="sync_disabled" formatted="false">Синхронизация выключена</string>
+    <string name="sync_server" formatted="false">Адрес сервера</string>
+    <string name="sync_invalid_url" formatted="false">Введите корректный HTTPS-адрес без логина, пароля, параметров и фрагмента.</string>
+    <string name="sync_url_help" formatted="false">Базовый HTTPS-адрес будущего сервера</string>
+    <string name="sync_save" formatted="false">Сохранить настройки</string>
+    <string name="sync_now" formatted="false">Проверить синхронизацию</string>
+</resources>

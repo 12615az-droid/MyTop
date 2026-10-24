@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cover_image" formatted="false">Вокладка гульні</string>
+    <string name="no_cover" formatted="false">Без вокладкі</string>
+    <string name="cover_unavailable" formatted="false">Вокладка недаступная</string>
+    <string name="edit_game" formatted="false">Змяніць гульню</string>
+    <string name="new_game" formatted="false">Новая гульня</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="saving" formatted="false">Захаванне…</string>
+    <string name="save" formatted="false">Захаваць</string>
+    <string name="game_unavailable" formatted="false">Гульня недаступная. Вярніцеся да калекцыі.</string>
+    <string name="basics" formatted="false">Асноўнае</string>
+    <string name="title_required" formatted="false">Назва *</string>
+    <string name="decrease" formatted="false">Зменшыць</string>
+    <string name="increase" formatted="false">Павялічыць</string>
+    <string name="status_required" formatted="false">Статус *</string>
+    <string name="additional" formatted="false">Дадаткова</string>
+    <string name="series" formatted="false">Серыя</string>
+    <string name="universe" formatted="false">Сусвет</string>
+    <string name="genres" formatted="false">Жанры</string>
+    <string name="developers" formatted="false">Распрацоўшчыкі</string>
+    <string name="release_year" formatted="false">Год выпуску</string>
+    <string name="platforms" formatted="false">Платформы</string>
+    <string name="tags" formatted="false">Тэгі</string>
+    <string name="opinion" formatted="false">Маё меркаванне</string>
+    <string name="playtime" formatted="false">Час у гульні</string>
+    <string name="hours" formatted="false">гадз.</string>
+    <string name="cover" formatted="false">Вокладка</string>
+    <string name="select" formatted="false">Выбраць</string>
+    <string name="replace" formatted="false">Замяніць</string>
+    <string name="remove" formatted="false">Прыбраць</string>
+    <string name="completion_dates" formatted="false">Даты праходжанняў</string>
+    <string name="delete" formatted="false">Выдаліць</string>
+    <string name="add_date" formatted="false">Дадаць дату</string>
+    <string name="add" formatted="false">Дадаць</string>
+    <string name="cancel" formatted="false">Скасаваць</string>
+    <string name="playing" formatted="false">Гуляю</string>
+    <string name="completed" formatted="false">Пройдзена</string>
+    <string name="replaying" formatted="false">Пераходжу нанова</string>
+    <string name="dropped" formatted="false">Кінута</string>
+    <string name="game_not_found" formatted="false">Гульня не знойдзена</string>
+    <string name="load_game_error" formatted="false">Не ўдалося загрузіць гульню</string>
+    <string name="title_needed" formatted="false">Увядзіце назву для захавання</string>
+    <string name="save_game_error" formatted="false">Не ўдалося захаваць гульню</string>
+    <string name="load_collection_error" formatted="false">Не ўдалося загрузіць калекцыю</string>
+    <string name="import_error" formatted="false">Не ўдалося імпартаваць JSON. Праверце фармат і доступ.</string>
+    <string name="export_error" formatted="false">Не ўдалося экспартаваць калекцыю</string>
+    <string name="export_retry" formatted="false">Адкрыйце налады экспарту нанова</string>
+    <string name="delete_error" formatted="false">Не ўдалося выдаліць гульню</string>
+    <string name="game_deleted" formatted="false">Гульня выдалена</string>
+    <string name="already_deleted" formatted="false">Гульня ўжо выдалена</string>
+    <string name="app_name" formatted="false">Мой топ гульняў</string>
+    <string name="settings" formatted="false">Налады</string>
+    <string name="transfer" formatted="false">Імпарт і экспарт</string>
+    <string name="import_json" formatted="false">Імпарт JSON</string>
+    <string name="export_collection" formatted="false">Экспарт калекцыі</string>
+    <string name="add_game" formatted="false">Дадаць гульню</string>
+    <string name="search_hint" formatted="false">Гульні, жанры, платформы</string>
+    <string name="clear_search" formatted="false">Ачысціць пошук</string>
+    <string name="filters" formatted="false">Фільтры</string>
+    <string name="empty_title" formatted="false">Твой топ пачынаецца тут</string>
+    <string name="no_results" formatted="false">Гульні не знойдзены</string>
+    <string name="empty_help" formatted="false">Дадайце гульню або імпартуйце калекцыю JSON.</string>
+    <string name="no_results_help" formatted="false">Змяніце пошук або скіньце фільтры.</string>
+    <string name="reset_search" formatted="false">Скінуць пошук і фільтры</string>
+    <string name="delete_question" formatted="false">Выдаліць гульню?</string>
+    <string name="edit" formatted="false">Змяніць</string>
+    <string name="filter_title" formatted="false">Фільтраваць гульні</string>
+    <string name="status" formatted="false">Статус</string>
+    <string name="all" formatted="false">Усе</string>
+    <string name="genre" formatted="false">Жанр</string>
+    <string name="all_genres" formatted="false">Усе жанры</string>
+    <string name="reset" formatted="false">Скінуць</string>
+    <string name="close" formatted="false">Закрыць</string>
+    <string name="delete_game" formatted="false">Выдаліць гульню</string>
+    <string name="sort_best" formatted="false">Спачатку найлепшыя</string>
+    <string name="sort_rating_asc" formatted="false">Ацэнка па ўзрастанні</string>
+    <string name="sort_title" formatted="false">Па назве</string>
+    <string name="sort_newest" formatted="false">Нядаўна дададзеныя</string>
+    <string name="sort_year" formatted="false">Па годзе выпуску</string>
+    <string name="choose_json" formatted="false">Выбраць JSON-файл</string>
+    <string name="import_title" formatted="false">Дадаць гульні з файла</string>
+    <string name="import_intro" formatted="false">Выкарыстоўвайце гэты фармат JSON. Дадавайце гульні ў масіў games.</string>
+    <string name="copied" formatted="false">Прыклад скапіяваны</string>
+    <string name="copy_example" formatted="false">Скапіяваць прыклад</string>
+    <string name="required_fields" formatted="false">Абавязковыя палі</string>
+    <string name="required_help" formatted="false">title: Назва\nrating: 0–10\nstatus: Статус\ncompletions: Праходжанні (≥0)</string>
+    <string name="statuses" formatted="false">Статусы</string>
+    <string name="statuses_help" formatted="false">PLAYING: Гуляю\nCOMPLETED: Пройдзена\nREPLAYING: Пераходжу нанова\nDROPPED: Кінута</string>
+    <string name="optional_fields" formatted="false">Дадатковыя палі</string>
+    <string name="optional_help" formatted="false">Спісы: genres, platforms, tags, developers, completionDates.\nТэкст: series, universe, opinion, coverUri.\nЛікі: releaseYear, playtimeHours (0.5).</string>
+    <string name="import_how" formatted="false">Як працуе імпарт</string>
+    <string name="import_behavior" formatted="false">Гульні дадаюцца. Паўторны імпарт стварае копіі. Няправільны файл нічога не змяняе.</string>
+    <string name="import_limits" formatted="false">Да 10 МБ і 10 000 гульняў. Версія 1 або просты масіў. Лакальныя спасылкі могуць не працаваць на іншай прыладзе.</string>
+    <string name="export_settings" formatted="false">Налады экспарту</string>
+    <string name="file_format" formatted="false">Фармат файла</string>
+    <string name="json_purpose" formatted="false">Перанос і аднаўленне калекцыі</string>
+    <string name="txt_purpose" formatted="false">Тэкставы топ з ацэнкамі</string>
+    <string name="which_games" formatted="false">Якія гульні</string>
+    <string name="whole_collection" formatted="false">Уся калекцыя</string>
+    <string name="current_selection" formatted="false">Бягучая выбарка</string>
+    <string name="export_order" formatted="false">Парадак як на галоўным экране.</string>
+    <string name="which_fields" formatted="false">Якія даныя</string>
+    <string name="required_export" formatted="false">Заўсёды ўключана: Назва, Ацэнка, Статус, Праходжанні.</string>
+    <string name="game_details" formatted="false">Звесткі пра гульню</string>
+    <string name="metadata_help" formatted="false">Серыя, Сусвет, Жанры, Тэгі, Распрацоўшчыкі, Платформы, Год выпуску</string>
+    <string name="history" formatted="false">Гісторыя праходжанняў</string>
+    <string name="history_help" formatted="false">Даты праходжанняў · Час у гульні</string>
+    <string name="opinion_help" formatted="false">Вашы нататкі і ўражанні</string>
+    <string name="cover_links" formatted="false">Спасылкі на вокладкі</string>
+    <string name="cover_links_help" formatted="false">Лакальныя спасылкі без выяў</string>
+    <string name="export_warning" formatted="false">Выключаныя палі не трапяць у JSON. Для поўнай копіі выберыце ўсе даныя і ўсю калекцыю.</string>
+    <string name="make_it_yours" formatted="false">Зрабі топ сваім</string>
+    <string name="settings_intro" formatted="false">Колеры, шрыфты і дэталі для вашай калекцыі.</string>
+    <string name="appearance" formatted="false">Афармленне</string>
+    <string name="appearance_summary" formatted="false">Тэма · Колеры · Шрыфт · Карткі і дэталі</string>
+    <string name="other_settings" formatted="false">Іншыя налады</string>
+    <string name="notifications" formatted="false">Апавяшчэнні</string>
+    <string name="notifications_soon" formatted="false">Хутка · напаміны пра гульні</string>
+    <string name="sync" formatted="false">Сінхранізацыя</string>
+    <string name="sync_soon" formatted="false">Хутка · на розных прыладах</string>
+    <string name="settings_soon" formatted="false">Гэтыя раздзелы з’явяцца пазней. Імпарт і экспарт — у галоўным меню.</string>
+    <string name="iris" formatted="false">Касач</string>
+    <string name="ocean" formatted="false">Акіян</string>
+    <string name="forest" formatted="false">Лес</string>
+    <string name="rose" formatted="false">Ружа</string>
+    <string name="amber" formatted="false">Бурштын</string>
+    <string name="graphite" formatted="false">Графіт</string>
+    <string name="font_applied" formatted="false">Шрыфт імпартаваны і ўжыты</string>
+    <string name="font_error" formatted="false">Не ўдалося загрузіць шрыфт. Выберыце правільны TTF/OTF да 5 МБ.</string>
+    <string name="reset_appearance" formatted="false">Скінуць афармленне</string>
+    <string name="your_style" formatted="false">Твой стыль. Твой топ.</string>
+    <string name="auto_save" formatted="false">Змены ўжываюцца і захоўваюцца адразу.</string>
+    <string name="theme" formatted="false">Тэма</string>
+    <string name="colors" formatted="false">Колеры</string>
+    <string name="system_colors" formatted="false">Сістэмныя колеры</string>
+    <string name="system_colors_help" formatted="false">Палітра на аснове шпалер</string>
+    <string name="system_colors_unavailable" formatted="false">Патрэбны Android 12. Ужываецца ваш акцэнт.</string>
+    <string name="accent_palette" formatted="false">Акцэнтная палітра</string>
+    <string name="custom_hex" formatted="false">Уласны акцэнт HEX</string>
+    <string name="hex_help" formatted="false">Увядзіце 6 сімвалаў HEX, напрыклад #7C4DFF</string>
+    <string name="tonal_help" formatted="false">Стварае танальную палітру з акцэнту</string>
+    <string name="apply_accent" formatted="false">Ужыць акцэнт</string>
+    <string name="font" formatted="false">Шрыфт</string>
+    <string name="custom_font" formatted="false">Уласны шрыфт</string>
+    <string name="loading" formatted="false">Загрузка…</string>
+    <string name="import_font" formatted="false">Імпартаваць шрыфт</string>
+    <string name="font_help" formatted="false">TTF/OTF да 5 МБ. Захоўваецца ў праграме. Выберыце шрыфт з падтрымкай вашай мовы.</string>
+    <string name="text_scale_help" formatted="false">90–120%, дадаткова да сістэмнага памеру тэксту.</string>
+    <string name="cards" formatted="false">Карткі і дэталі</string>
+    <string name="corners" formatted="false">Закругленні</string>
+    <string name="compact_cards" formatted="false">Кампактныя карткі</string>
+    <string name="compact_help" formatted="false">Меншыя вокладкі і водступы</string>
+    <string name="show_ranks" formatted="false">Паказваць нумары</string>
+    <string name="ranks_help" formatted="false">Пазіцыя побач са статусам</string>
+    <string name="material_note" formatted="false">Material 3</string>
+    <string name="reset_appearance_question" formatted="false">Скінуць афармленне?</string>
+    <string name="reset_appearance_help" formatted="false">Верне сістэмную тэму, колеры і шрыфт. Імпартаваны шрыфт будзе выдалены. Гульні застануцца.</string>
+    <string name="preview" formatted="false">Папярэдні прагляд</string>
+    <string name="favorite_game" formatted="false">Любімая гульня</string>
+    <string name="follow_system" formatted="false">Як у сістэме</string>
+    <string name="light_theme" formatted="false">Светлая</string>
+    <string name="dark_theme" formatted="false">Цёмная</string>
+    <string name="system_font" formatted="false">Сістэмны</string>
+    <string name="sans" formatted="false">Без засечак</string>
+    <string name="serif" formatted="false">З засечкамі</string>
+    <string name="condensed" formatted="false">Вузкі</string>
+    <string name="mono" formatted="false">Монашырынны</string>
+    <string name="custom" formatted="false">Уласны</string>
+    <string name="subtle" formatted="false">Стрымана</string>
+    <string name="balanced" formatted="false">Баланс</string>
+    <string name="soft" formatted="false">Мякка</string>
+    <string name="shown_count">%1$d / %2$d</string>
+    <string name="average_compact">Сярэдняя: %1$s / 10</string>
+    <string name="delete_confirmation">Выдаліць «%1$s» з калекцыі? Гэта дзеянне нельга скасаваць.</string>
+    <string name="game_actions">Дзеянні з гульнёй %1$s</string>
+    <string name="minimum_rating">Ацэнка ад %1$s</string>
+    <string name="show_count">Паказаць: %1$d</string>
+    <string name="completions_count">Праходжанняў: %1$d</string>
+    <string name="rating_value">Ацэнка: %1$s / 10</string>
+    <string name="text_scale">Памер тэксту · %1$d%%</string>
+    <string name="save_file_count">Захаваць файл · гульняў: %1$d</string>
+    <string name="games_count">Гульняў: %1$d</string>
+    <string name="filtered_count">Гульняў паводле пошуку і фільтраў: %1$d</string>
+    <string name="added_count">Дададзена гульняў: %1$d</string>
+    <string name="exported_count">Экспартавана гульняў: %1$d</string>
+    <string name="hours_value">%1$s гадз.</string>
+    <string name="language" formatted="false">Мова</string>
+    <string name="language_help" formatted="false">Мова</string>
+    <string name="system_language" formatted="false">Мова сістэмы</string>
+    <string name="language_note" formatted="false">Змяняе мову інтэрфейсу. Назвы гульняў і нататкі застаюцца без змен.</string>
+    <string name="total_games" formatted="false">Усяго гульняў</string>
+    <string name="average_rating" formatted="false">Сярэдняя ацэнка</string>
+    <string name="completions" formatted="false">Праходжанні</string>
+    <string name="empty_collection" formatted="false">Калекцыя пустая.</string>
+    <string name="cover_link" formatted="false">Спасылка на вокладку</string>
+    <string name="export_destination" formatted="false">Куды экспартаваць</string>
+    <string name="to_file" formatted="false">У файл</string>
+    <string name="to_file_help" formatted="false">Захаваць як JSON або TXT</string>
+    <string name="to_clipboard" formatted="false">У буфер абмену</string>
+    <string name="to_clipboard_help" formatted="false">Скапіяваць экспарт для ўстаўкі ў іншую праграму</string>
+    <string name="copy_count">Скапіяваць гульняў: %1$d</string>
+    <string name="copied_count">Скапіявана гульняў: %1$d</string>
+    <string name="export_content" formatted="false">Змест экспарту</string>
+    <string name="full_report" formatted="false">Поўная справаздача</string>
+    <string name="full_report_help" formatted="false">Усе выбраныя палі і статыстыка калекцыі</string>
+    <string name="top_only" formatted="false">Толькі топ</string>
+    <string name="top_only_help" formatted="false">Толькі месца, назва гульні і ацэнка</string>
+    <string name="sync_unavailable" formatted="false">Сервер пакуль недаступны</string>
+    <string name="sync_client_note" formatted="false">Налады кліента. Даныя не адпраўляюцца, пакуль не падключаны серверны адаптар.</string>
+    <string name="sync_enable" formatted="false">Уключыць сінхранізацыю</string>
+    <string name="sync_enabled_pending" formatted="false">Уключана ў наладах; чакае падключэння сервера</string>
+    <string name="sync_disabled" formatted="false">Сінхранізацыя выключана</string>
+    <string name="sync_server" formatted="false">Адрас сервера</string>
+    <string name="sync_invalid_url" formatted="false">Увядзіце карэктны HTTPS-адрас без уліковых даных, параметраў і фрагмента.</string>
+    <string name="sync_url_help" formatted="false">Базавы HTTPS-адрас будучага сервера</string>
+    <string name="sync_save" formatted="false">Захаваць налады</string>
+    <string name="sync_now" formatted="false">Праверыць сінхранізацыю</string>
+</resources>

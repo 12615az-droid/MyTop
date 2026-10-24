@@ -5,6 +5,9 @@ import kotlinx.coroutines.flow.Flow
 
 interface GameRepository {
     fun observeGames(): Flow<List<Game>>
+    suspend fun getGame(id: Long): Game?
+    suspend fun updateGame(game: Game): Boolean
+    suspend fun deleteGame(id: Long): Boolean
     suspend fun addGame(game: Game): Long
-    // Future filtering/sorting should enter through query objects/use cases here.
+    suspend fun importGames(games: List<Game>)
 }
